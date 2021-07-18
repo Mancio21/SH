@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: d3efe34caaa03364f952de3a95c57957
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4820478800126689854
+    second: animazione magica64128 2a parte_0
+  - first:
+      213: -746441525408312435
+    second: animazione magica64128 2a parte_1
+  - first:
+      213: -6328438034364798320
+    second: animazione magica64128 2a parte_2
+  - first:
+      213: -6864434732551304425
+    second: animazione magica64128 2a parte_3
+  - first:
+      213: 6003425394080707618
+    second: animazione magica64128 2a parte_4
+  - first:
+      213: -4517001373487806275
+    second: animazione magica64128 2a parte_5
+  - first:
+      213: 4787710740790918013
+    second: animazione magica64128 2a parte_6
+  - first:
+      213: 6975071101488760177
+    second: animazione magica64128 2a parte_7
+  - first:
+      213: 7862473563781274146
+    second: animazione magica64128 2a parte_8
+  - first:
+      213: -7986669268484053591
+    second: animazione magica64128 2a parte_9
+  - first:
+      213: -430405188115828629
+    second: animazione magica64128 2a parte_10
+  - first:
+      213: 1567265568802316693
+    second: animazione magica64128 2a parte_11
+  - first:
+      213: -1488334131967056547
+    second: animazione magica64128 2a parte_12
+  - first:
+      213: -3001336712096271850
+    second: animazione magica64128 2a parte_13
+  - first:
+      213: 817878572882917355
+    second: animazione magica64128 2a parte_14
+  - first:
+      213: -956979958269617393
+    second: animazione magica64128 2a parte_15
+  - first:
+      213: -8211230648248586800
+    second: animazione magica64128 2a parte_16
+  - first:
+      213: 3304227373834479264
+    second: animazione magica64128 2a parte_17
+  - first:
+      213: -6081545197455282855
+    second: animazione magica64128 2a parte_18
+  - first:
+      213: -3735492623903297490
+    second: animazione magica64128 2a parte_19
+  - first:
+      213: 7657403088298086819
+    second: animazione magica64128 2a parte_20
+  - first:
+      213: -3545205652587750495
+    second: animazione magica64128 2a parte_21
+  - first:
+      213: 2305277514499685552
+    second: animazione magica64128 2a parte_22
+  - first:
+      213: -8820928636626680710
+    second: animazione magica64128 2a parte_23
+  - first:
+      213: 5250035925940469124
+    second: animazione magica64128 2a parte_24
+  - first:
+      213: 3537152590607280214
+    second: animazione magica64128 2a parte_25
+  - first:
+      213: -2039134183277850035
+    second: animazione magica64128 2a parte_26
+  - first:
+      213: 6625219058278015922
+    second: animazione magica64128 2a parte_27
+  - first:
+      213: 8213804109025944516
+    second: animazione magica64128 2a parte_28
+  - first:
+      213: -2832010428947332377
+    second: animazione magica64128 2a parte_29
+  - first:
+      213: -4101354476373733949
+    second: animazione magica64128 2a parte_30
+  - first:
+      213: 882906055290400158
+    second: animazione magica64128 2a parte_31
+  - first:
+      213: 8694737535567022968
+    second: animazione magica64128 2a parte_32
+  - first:
+      213: 4701123011315667339
+    second: animazione magica64128 2a parte_33
+  - first:
+      213: 7992358308414589594
+    second: animazione magica64128 2a parte_34
+  - first:
+      213: 4598440206879011504
+    second: animazione magica64128 2a parte_35
+  - first:
+      213: 1500811057008615056
+    second: animazione magica64128 2a parte_36
+  - first:
+      213: -2345776355777533916
+    second: animazione magica64128 2a parte_37
+  - first:
+      213: -4919895645075416425
+    second: animazione magica64128 2a parte_38
+  - first:
+      213: 360730472290112657
+    second: animazione magica64128 2a parte_39
+  - first:
+      213: 3757124616973721845
+    second: animazione magica64128 2a parte_40
+  - first:
+      213: 5820672058441005980
+    second: animazione magica64128 2a parte_41
+  - first:
+      213: -7682386871415818433
+    second: animazione magica64128 2a parte_42
+  - first:
+      213: -5363948978724128927
+    second: animazione magica64128 2a parte_43
+  - first:
+      213: -3323578812759151625
+    second: animazione magica64128 2a parte_44
+  - first:
+      213: -3854553822964964769
+    second: animazione magica64128 2a parte_45
+  - first:
+      213: -5061529598174163299
+    second: animazione magica64128 2a parte_46
+  - first:
+      213: 2510714969550708159
+    second: animazione magica64128 2a parte_47
+  - first:
+      213: 6228946350554519978
+    second: animazione magica64128 2a parte_48
+  - first:
+      213: 8830682792762883839
+    second: animazione magica64128 2a parte_49
+  - first:
+      213: 7805457680168636419
+    second: animazione magica64128 2a parte_50
+  - first:
+      213: 505647595155562220
+    second: animazione magica64128 2a parte_51
+  - first:
+      213: -1485832553929776661
+    second: animazione magica64128 2a parte_52
+  - first:
+      213: 1496159760598887386
+    second: animazione magica64128 2a parte_53
+  - first:
+      213: -884485854503997502
+    second: animazione magica64128 2a parte_54
+  - first:
+      213: 6185869802159934900
+    second: animazione magica64128 2a parte_55
+  - first:
+      213: -943534236053016794
+    second: animazione magica64128 2a parte_56
+  - first:
+      213: -8539770513283887560
+    second: animazione magica64128 2a parte_57
+  - first:
+      213: -4955667629163983753
+    second: animazione magica64128 2a parte_58
+  - first:
+      213: -1567127383079853851
+    second: animazione magica64128 2a parte_0
+  - first:
+      213: 9018718977222420356
+    second: animazione magica64128 2a parte_1
+  - first:
+      213: -8526344576290154975
+    second: animazione magica64128 2a parte_2
+  - first:
+      213: 1335884496560759044
+    second: animazione magica64128 2a parte_3
+  - first:
+      213: 7495769628367659307
+    second: animazione magica64128 2a parte_4
+  - first:
+      213: 423508726809038698
+    second: animazione magica64128 2a parte_5
+  - first:
+      213: 1057504303512393446
+    second: animazione magica64128 2a parte_6
+  - first:
+      213: 425495115223584194
+    second: animazione magica64128 2a parte_7
+  - first:
+      213: 8416519582565626298
+    second: animazione magica64128 2a parte_8
+  - first:
+      213: 1453137916507348165
+    second: animazione magica64128 2a parte_9
+  - first:
+      213: -340343864719518333
+    second: animazione magica64128 2a parte_10
+  - first:
+      213: -7410740940888364637
+    second: animazione magica64128 2a parte_11
+  - first:
+      213: 1568609783084027316
+    second: animazione magica64128 2a parte_12
+  - first:
+      213: 8263194122729264125
+    second: animazione magica64128 2a parte_13
+  - first:
+      213: -8693884349812494178
+    second: animazione magica64128 2a parte_14
+  - first:
+      213: -6497318416651778785
+    second: animazione magica64128 2a parte_15
+  - first:
+      213: 2154529349933623196
+    second: animazione magica64128 2a parte_16
+  - first:
+      213: -2163966600057250965
+    second: animazione magica64128 2a parte_17
+  - first:
+      213: 6914882529370739692
+    second: animazione magica64128 2a parte_18
+  - first:
+      213: -6994525935341662840
+    second: animazione magica64128 2a parte_19
+  - first:
+      213: 3103540915921458441
+    second: animazione magica64128 2a parte_20
+  - first:
+      213: 4443865749793162798
+    second: animazione magica64128 2a parte_21
+  - first:
+      213: -5221389096709877149
+    second: animazione magica64128 2a parte_22
+  - first:
+      213: 3867152439996480552
+    second: animazione magica64128 2a parte_23
+  - first:
+      213: -3843986989490853376
+    second: animazione magica64128 2a parte_24
+  - first:
+      213: 3394155510668681233
+    second: animazione magica64128 2a parte_25
+  - first:
+      213: 8815410342828518876
+    second: animazione magica64128 2a parte_26
+  - first:
+      213: 1821394301362047191
+    second: animazione magica64128 2a parte_27
+  - first:
+      213: 1172322152557979182
+    second: animazione magica64128 2a parte_28
+  - first:
+      213: 6684233493981142003
+    second: animazione magica64128 2a parte_29
+  - first:
+      213: 6290562419644695669
+    second: animazione magica64128 2a parte_30
+  - first:
+      213: 1453725761768262368
+    second: animazione magica64128 2a parte_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_0
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 4604
+        width: 392
+        height: 761
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0ecb5b2f1704ae0800000000000000
+      internalID: -1567127383079853851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_1
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 4604
+        width: 332
+        height: 1124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487aa66602de82d70800000000000000
+      internalID: 9018718977222420356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_3
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 4604
+        width: 332
+        height: 1076
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a47e2fd30a8210800000000000000
+      internalID: 1335884496560759044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_4
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 4604
+        width: 332
+        height: 1112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21240143c2560860800000000000000
+      internalID: 7495769628367659307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4604
+        width: 440
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69d47af820dae00800000000000000
+      internalID: 1057504303512393446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 4604
+        width: 440
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdc09c8d89a7e500800000000000000
+      internalID: 425495115223584194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_8
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 4604
+        width: 488
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab171fbb7fb7dc470800000000000000
+      internalID: 8416519582565626298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_9
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 4604
+        width: 488
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc521b6c359a2410800000000000000
+      internalID: 1453137916507348165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3068
+        width: 332
+        height: 1136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d04bb68b37eee90800000000000000
+      internalID: -6994525935341662840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_24
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 3068
+        width: 332
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aac2a033a67aac0800000000000000
+      internalID: -3843986989490853376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_28
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3068
+        width: 332
+        height: 1040
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262a8959cce44010800000000000000
+      internalID: 1172322152557979182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_29
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 3068
+        width: 332
+        height: 1040
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb938cb2fa23cc50800000000000000
+      internalID: 6684233493981142003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_33
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 3068
+        width: 440
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8192ee987ebd3140800000000000000
+      internalID: 4701123011315667339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_34
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 3068
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a81b2498f8aee60800000000000000
+      internalID: 7992358308414589594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_35
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 3068
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b5eb2101f0df30800000000000000
+      internalID: 4598440206879011504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_36
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 3068
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1af764b3f3d410800000000000000
+      internalID: 1500811057008615056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_37
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1532
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ae5735d0227fd0800000000000000
+      internalID: -2345776355777533916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_38
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1532
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad94f3af409bbb0800000000000000
+      internalID: -4919895645075416425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_39
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1532
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d28c0472910500800000000000000
+      internalID: 360730472290112657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_40
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1532
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0289bdeecf32430800000000000000
+      internalID: 3757124616973721845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_41
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 1532
+        width: 356
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfa6dd56e27c050800000000000000
+      internalID: 5820672058441005980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_42
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 1532
+        width: 356
+        height: 596
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b22ee7dda26590800000000000000
+      internalID: -7682386871415818433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_43
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 1532
+        width: 356
+        height: 872
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16734d1c2dc6f85b0800000000000000
+      internalID: -5363948978724128927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_44
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 1532
+        width: 332
+        height: 860
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbe97acda640e1d0800000000000000
+      internalID: -3323578812759151625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_45
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 332
+        height: 856
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52ac8668bfd18ac0800000000000000
+      internalID: -3854553822964964769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_46
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 332
+        height: 856
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e04b8c5a5d1c9b0800000000000000
+      internalID: -5061529598174163299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_47
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 0
+        width: 332
+        height: 832
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd535466f9d7d220800000000000000
+      internalID: 2510714969550708159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animazione magica64128 2a parte_48
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 0
+        width: 332
+        height: 820
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa994c514b9a17650800000000000000
+      internalID: 6228946350554519978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
