@@ -1,130 +1,130 @@
 fileFormatVersion: 2
-guid: 7f4d12c23048e20448c432f3fc93f106
+guid: 2500946dab4cdcc4db8b9462d00e3cf8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6206747550222692430
-    second: mandrake-Sheet_0
+      213: -6017029890879602838
+    second: yeti-Sheet_0
   - first:
-      213: 8355548691151604080
-    second: mandrake-Sheet_1
+      213: 7807045570232560109
+    second: yeti-Sheet_1
   - first:
-      213: -1051331966898880768
-    second: mandrake-Sheet_2
+      213: -6429077252910244419
+    second: yeti-Sheet_2
   - first:
-      213: 5349955205587255193
-    second: mandrake-Sheet_3
+      213: 4473739525635712642
+    second: yeti-Sheet_3
   - first:
-      213: 1304391379633469721
-    second: mandrake-Sheet_4
+      213: 2361524824566093976
+    second: yeti-Sheet_4
   - first:
-      213: 1649309336363294117
-    second: mandrake-Sheet_5
+      213: 5707645852357341132
+    second: yeti-Sheet_5
   - first:
-      213: 8470517160762664429
-    second: mandrake-Sheet_6
+      213: -6288584892403249224
+    second: yeti-Sheet_6
   - first:
-      213: 3462088788077927308
-    second: mandrake-Sheet_7
+      213: 7201014029340970657
+    second: yeti-Sheet_7
   - first:
-      213: -5364416269549767980
-    second: mandrake-Sheet_8
+      213: -3646534903729732154
+    second: yeti-Sheet_8
   - first:
-      213: 4546206227543060503
-    second: mandrake-Sheet_9
+      213: -4796369500403982635
+    second: yeti-Sheet_9
   - first:
-      213: -2379178544149453992
-    second: mandrake-Sheet_10
+      213: -7695801364785916377
+    second: yeti-Sheet_10
   - first:
-      213: 7556982577548471836
-    second: mandrake-Sheet_11
+      213: -8160102237377462005
+    second: yeti-Sheet_11
   - first:
-      213: 7748589163435616261
-    second: mandrake-Sheet_12
+      213: 705272191042980875
+    second: yeti-Sheet_12
   - first:
-      213: 2985210495939434686
-    second: mandrake-Sheet_13
+      213: 2493798825042514911
+    second: yeti-Sheet_13
   - first:
-      213: -5248691500866038801
-    second: mandrake-Sheet_14
+      213: 4786211188083788281
+    second: yeti-Sheet_14
   - first:
-      213: 2696700299631729117
-    second: mandrake-Sheet_15
+      213: 1825633391566427059
+    second: yeti-Sheet_15
   - first:
-      213: -2067286056795341415
-    second: mandrake-Sheet_16
+      213: 7791387052450716929
+    second: yeti-Sheet_16
   - first:
-      213: 2428123679331177846
-    second: mandrake-Sheet_17
+      213: 4653605544347662985
+    second: yeti-Sheet_17
   - first:
-      213: 6344763555451770877
-    second: mandrake-Sheet_18
+      213: -7554106384014213081
+    second: yeti-Sheet_18
   - first:
-      213: 2763415530443833756
-    second: mandrake-Sheet_19
+      213: 6711145652798623642
+    second: yeti-Sheet_19
   - first:
-      213: 6845615915888333268
-    second: mandrake-Sheet_20
+      213: -4319110728847981850
+    second: yeti-Sheet_20
   - first:
-      213: -6380720036495618271
-    second: mandrake-Sheet_21
+      213: 469047549898844770
+    second: yeti-Sheet_21
   - first:
-      213: -6054654831849566989
-    second: mandrake-Sheet_22
+      213: -8129168376063021449
+    second: yeti-Sheet_22
   - first:
-      213: -6203028386703358705
-    second: mandrake-Sheet_23
+      213: -843231772465019741
+    second: yeti-Sheet_23
   - first:
-      213: -5356082453083351870
-    second: mandrake-Sheet_24
+      213: 1743590665621999803
+    second: yeti-Sheet_24
   - first:
-      213: 6689470513394363237
-    second: mandrake-Sheet_25
+      213: 3236829694664165423
+    second: yeti-Sheet_25
   - first:
-      213: -5697307301214219652
-    second: mandrake-Sheet_26
+      213: 8352248622994125114
+    second: yeti-Sheet_26
   - first:
-      213: -6142244889150602791
-    second: mandrake-Sheet_27
+      213: -8374192795654535760
+    second: yeti-Sheet_27
   - first:
-      213: 8756255762432138466
-    second: mandrake-Sheet_28
+      213: 4992172736479709166
+    second: yeti-Sheet_28
   - first:
-      213: -1079966715315431965
-    second: mandrake-Sheet_29
+      213: 940413061359854091
+    second: yeti-Sheet_29
   - first:
-      213: -6042285391505712632
-    second: mandrake-Sheet_30
+      213: -7105429507450599341
+    second: yeti-Sheet_30
   - first:
-      213: 5243473257336714628
-    second: mandrake-Sheet_31
+      213: -5552359813403378383
+    second: yeti-Sheet_31
   - first:
-      213: -32139148542827749
-    second: mandrake-Sheet_32
+      213: 3309603354490612437
+    second: yeti-Sheet_32
   - first:
-      213: 2740598226282297707
-    second: mandrake-Sheet_33
+      213: 6735968260806540706
+    second: yeti-Sheet_33
   - first:
-      213: 413359118252282337
-    second: mandrake-Sheet_34
+      213: -7429184928314488044
+    second: yeti-Sheet_34
   - first:
-      213: 2778056591148301524
-    second: mandrake-Sheet_35
+      213: -5787749018772346400
+    second: yeti-Sheet_35
   - first:
-      213: -1795219274163295832
-    second: mandrake-Sheet_36
+      213: -1850527817913620947
+    second: yeti-Sheet_36
   - first:
-      213: 5162602381926499487
-    second: mandrake-Sheet_37
+      213: -3807099391303348624
+    second: yeti-Sheet_37
   - first:
-      213: -5887699907213159957
-    second: mandrake-Sheet_38
+      213: -4429670440193060392
+    second: yeti-Sheet_38
   - first:
-      213: -1279921295115908613
-    second: mandrake-Sheet_39
+      213: -7103578379636035324
+    second: yeti-Sheet_39
   - first:
-      213: -5762584511403498574
-    second: mandrake-Sheet_40
+      213: 1235466185858234996
+    second: yeti-Sheet_40
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -284,862 +284,862 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mandrake-Sheet_0
+      name: yeti-Sheet_0
       rect:
         serializedVersion: 2
-        x: 114
-        y: 1002
-        width: 105
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 228
+        y: 3754
+        width: 333
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bf4372ecf33dd9a0800000000000000
-      internalID: -6206747550222692430
+      spriteID: a6fb63f91373f7ca0800000000000000
+      internalID: -6017029890879602838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_1
+      name: yeti-Sheet_1
       rect:
         serializedVersion: 2
-        x: 376
-        y: 1002
-        width: 83
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 827
+        y: 3754
+        width: 335
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0794297d34fd4f370800000000000000
-      internalID: 8355548691151604080
+      spriteID: de9aff62592385c60800000000000000
+      internalID: 7807045570232560109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_2
+      name: yeti-Sheet_2
       rect:
         serializedVersion: 2
-        x: 630
-        y: 1002
-        width: 57
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1420
+        y: 3754
+        width: 341
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00fbaf3752be861f0800000000000000
-      internalID: -1051331966898880768
+      spriteID: dbd9dba1d4457c6a0800000000000000
+      internalID: -6429077252910244419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_3
+      name: yeti-Sheet_3
       rect:
         serializedVersion: 2
-        x: 862
-        y: 1006
-        width: 96
-        height: 141
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2019
+        y: 3754
+        width: 342
+        height: 374
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99fb7490aebde3a40800000000000000
-      internalID: 5349955205587255193
+      spriteID: 286242b456ae51e30800000000000000
+      internalID: 4473739525635712642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_4
+      name: yeti-Sheet_4
       rect:
         serializedVersion: 2
-        x: 1094
-        y: 1002
-        width: 126
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2694
+        y: 3754
+        width: 218
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 919722f7c012a1210800000000000000
-      internalID: 1304391379633469721
+      spriteID: 8985788e052d5c020800000000000000
+      internalID: 2361524824566093976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_5
+      name: yeti-Sheet_5
       rect:
         serializedVersion: 2
-        x: 1343
-        y: 1002
-        width: 127
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 269
+        y: 3284
+        width: 226
+        height: 359
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ad5bae5a1683e610800000000000000
-      internalID: 1649309336363294117
+      spriteID: ccfad7d89a1a53f40800000000000000
+      internalID: 5707645852357341132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_6
+      name: yeti-Sheet_6
       rect:
         serializedVersion: 2
-        x: 105
-        y: 836
-        width: 122
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 860
+        y: 3284
+        width: 228
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de5eb1f9a725d8570800000000000000
-      internalID: 8470517160762664429
+      spriteID: 8bf8a64db557ab8a0800000000000000
+      internalID: -6288584892403249224
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_7
+      name: yeti-Sheet_7
       rect:
         serializedVersion: 2
-        x: 350
-        y: 836
-        width: 131
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1453
+        y: 3284
+        width: 259
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8b5f3ae86fcb0030800000000000000
-      internalID: 3462088788077927308
+      spriteID: 1ae09796b142fe360800000000000000
+      internalID: 7201014029340970657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_8
+      name: yeti-Sheet_8
       rect:
         serializedVersion: 2
-        x: 591
-        y: 836
-        width: 135
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2044
+        y: 3284
+        width: 277
+        height: 359
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d2f82223d3cd85b0800000000000000
-      internalID: -5364416269549767980
+      spriteID: 6c5402243d7e46dc0800000000000000
+      internalID: -3646534903729732154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_9
+      name: yeti-Sheet_9
       rect:
         serializedVersion: 2
-        x: 840
-        y: 840
-        width: 140
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7107f542a7e571f30800000000000000
-      internalID: 4546206227543060503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_10
-      rect:
-        serializedVersion: 2
-        x: 1094
-        y: 836
-        width: 126
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 853adb238b57bfed0800000000000000
-      internalID: -2379178544149453992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_11
-      rect:
-        serializedVersion: 2
-        x: 1343
-        y: 836
-        width: 131
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1ea79c9d9bcfd860800000000000000
-      internalID: 7556982577548471836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_12
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 674
-        width: 136
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50865055ac4888b60800000000000000
-      internalID: 7748589163435616261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_13
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 670
-        width: 136
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb8dc3631299d6920800000000000000
-      internalID: 2985210495939434686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 670
-        width: 131
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe3944383e6e827b0800000000000000
-      internalID: -5248691500866038801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 844
-        y: 670
-        width: 131
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd91d3182aa9c6520800000000000000
-      internalID: 2696700299631729117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_16
-      rect:
-        serializedVersion: 2
-        x: 1098
-        y: 670
-        width: 140
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99d7897c8468f43e0800000000000000
-      internalID: -2067286056795341415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_17
-      rect:
-        serializedVersion: 2
-        x: 1387
-        y: 670
-        width: 96
-        height: 148
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 675df312f9d62b120800000000000000
-      internalID: 2428123679331177846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 503
-        width: 92
-        height: 149
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df71c8276d02d0850800000000000000
-      internalID: 6344763555451770877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_19
-      rect:
-        serializedVersion: 2
-        x: 311
-        y: 503
-        width: 144
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9107e2a8cf995620800000000000000
-      internalID: 2763415530443833756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_20
-      rect:
-        serializedVersion: 2
-        x: 564
-        y: 503
-        width: 145
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d1d847e763800f50800000000000000
-      internalID: 6845615915888333268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_21
-      rect:
-        serializedVersion: 2
-        x: 840
-        y: 503
-        width: 122
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12f067deee02377a0800000000000000
-      internalID: -6380720036495618271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_22
-      rect:
-        serializedVersion: 2
-        x: 1115
-        y: 503
-        width: 123
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fc0106628b89fba0800000000000000
-      internalID: -6054654831849566989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 1365
-        y: 503
-        width: 127
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f05c1ee1c8a6ae9a0800000000000000
-      internalID: -6203028386703358705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_24
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 337
-        width: 122
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c4934cf26f5ba5b0800000000000000
-      internalID: -5356082453083351870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_25
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 337
-        width: 123
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56b22565df5c5dc50800000000000000
-      internalID: 6689470513394363237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_26
-      rect:
-        serializedVersion: 2
-        x: 617
-        y: 337
-        width: 127
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c7213e6f1391fe0b0800000000000000
-      internalID: -5697307301214219652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_27
-      rect:
-        serializedVersion: 2
-        x: 862
-        y: 337
-        width: 122
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d148baf0dc52caa0800000000000000
-      internalID: -6142244889150602791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 1107
-        y: 337
-        width: 122
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ec1c3a2938748970800000000000000
-      internalID: 8756255762432138466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 1347
-        y: 337
-        width: 123
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e5d06c8eff2301f0800000000000000
-      internalID: -1079966715315431965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_30
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 171
-        width: 132
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80a15c7237d752ca0800000000000000
-      internalID: -6042285391505712632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_31
-      rect:
-        serializedVersion: 2
-        x: 262
-        y: 171
-        width: 171
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 485b0dc752f84c840800000000000000
-      internalID: 5243473257336714628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mandrake-Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 503
-        y: 171
+        x: 2701
+        y: 3284
         width: 179
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 350
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b13a8bb5d91dd8ff0800000000000000
-      internalID: -32139148542827749
+      spriteID: 5de17e40a5fdf6db0800000000000000
+      internalID: -4796369500403982635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_33
+      name: yeti-Sheet_10
       rect:
         serializedVersion: 2
-        x: 757
-        y: 171
-        width: 175
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 2817
+        width: 317
+        height: 383
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b693f95019f880620800000000000000
-      internalID: 2740598226282297707
+      spriteID: 72618fdce65033590800000000000000
+      internalID: -7695801364785916377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_34
+      name: yeti-Sheet_11
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 171
-        width: 175
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 819
+        y: 2817
+        width: 285
+        height: 383
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e198109deb8cb500800000000000000
-      internalID: 413359118252282337
+      spriteID: b010f3acf3e71ce80800000000000000
+      internalID: -8160102237377462005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_35
+      name: yeti-Sheet_12
       rect:
         serializedVersion: 2
-        x: 1343
-        y: 171
-        width: 127
-        height: 135
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1461
+        y: 2817
+        width: 243
+        height: 383
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dcb35930c3ad8620800000000000000
-      internalID: 2778056591148301524
+      spriteID: b0c04113251a9c900800000000000000
+      internalID: 705272191042980875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_36
+      name: yeti-Sheet_13
       rect:
         serializedVersion: 2
-        x: 96
-        y: 4
-        width: 127
-        height: 136
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1904
+        y: 2817
+        width: 399
+        height: 284
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a9ef85e4991617e0800000000000000
-      internalID: -1795219274163295832
+      spriteID: fd312f391d0cb9220800000000000000
+      internalID: 2493798825042514911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_37
+      name: yeti-Sheet_14
       rect:
         serializedVersion: 2
-        x: 341
-        y: 9
-        width: 140
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2554
+        y: 2817
+        width: 350
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f948053838f35a740800000000000000
-      internalID: 5162602381926499487
+      spriteID: 9f90cb597b90c6240800000000000000
+      internalID: 4786211188083788281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_38
+      name: yeti-Sheet_15
       rect:
         serializedVersion: 2
-        x: 591
-        y: 9
-        width: 140
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 178
+        y: 2348
+        width: 325
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be19576f020ba4ea0800000000000000
-      internalID: -5887699907213159957
+      spriteID: 3b39862a5e3f55910800000000000000
+      internalID: 1825633391566427059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_39
+      name: yeti-Sheet_16
       rect:
         serializedVersion: 2
-        x: 844
-        y: 4
-        width: 127
-        height: 158
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 835
+        y: 2348
+        width: 309
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf988280d5ecc3ee0800000000000000
-      internalID: -1279921295115908613
+      spriteID: 10d17e06e31902c60800000000000000
+      internalID: 7791387052450716929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mandrake-Sheet_40
+      name: yeti-Sheet_17
       rect:
         serializedVersion: 2
-        x: 1094
-        y: 4
-        width: 126
-        height: 154
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1453
+        y: 2348
+        width: 308
+        height: 449
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b360a91bef2700b0800000000000000
-      internalID: -5762584511403498574
+      spriteID: 98a71a3369de49040800000000000000
+      internalID: 4653605544347662985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2348
+        width: 310
+        height: 449
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7208251644c6a2790800000000000000
+      internalID: -7554106384014213081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2348
+        width: 366
+        height: 259
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f08fef967c22d50800000000000000
+      internalID: 6711145652798623642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1879
+        width: 374
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2007dfcaf6f04c0800000000000000
+      internalID: -4319110728847981850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1879
+        width: 374
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aec72f244628600800000000000000
+      internalID: 469047549898844770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1879
+        width: 342
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eac61ae646f2f80800000000000000
+      internalID: -8129168376063021449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1879
+        width: 294
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a446eaab2d3c44f0800000000000000
+      internalID: -843231772465019741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1879
+        width: 268
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb01612f87a723810800000000000000
+      internalID: 1743590665621999803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1411
+        width: 284
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c4e435778bec20800000000000000
+      internalID: 3236829694664165423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1411
+        width: 294
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317f49ded529e370800000000000000
+      internalID: 8352248622994125114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1411
+        width: 267
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5406e4504e8cb80800000000000000
+      internalID: -8374192795654535760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1411
+        width: 284
+        height: 367
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7434777a2c74540800000000000000
+      internalID: 4992172736479709166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1411
+        width: 310
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02ed7062b40d0d00800000000000000
+      internalID: 940413061359854091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 942
+        width: 308
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35804d75281746d90800000000000000
+      internalID: -7105429507450599341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 949
+        width: 343
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dffe8da2e02f2b0800000000000000
+      internalID: -5552359813403378383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 942
+        width: 506
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daaad347b21eed20800000000000000
+      internalID: 3309603354490612437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 942
+        width: 508
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adfdabc177fa7d50800000000000000
+      internalID: 6735968260806540706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 942
+        width: 506
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b01215bab36e890800000000000000
+      internalID: -7429184928314488044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 475
+        width: 350
+        height: 349
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e965f6aee8cdafa0800000000000000
+      internalID: -5787749018772346400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 475
+        width: 343
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26a74e01ca9156e0800000000000000
+      internalID: -1850527817913620947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 475
+        width: 293
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e02c446477a2bc0800000000000000
+      internalID: -3807099391303348624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 475
+        width: 292
+        height: 358
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d19e3c3436a682c0800000000000000
+      internalID: -4429670440193060392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 475
+        width: 292
+        height: 448
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40136af99150b6d90800000000000000
+      internalID: -7103578379636035324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yeti-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 5
+        width: 293
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a361443f1452110800000000000000
+      internalID: 1235466185858234996
       vertices: []
       indices: 
       edges: []
