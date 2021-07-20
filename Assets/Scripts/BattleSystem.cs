@@ -26,14 +26,15 @@ public class BattleSystem : MonoBehaviour
 
     IEnumerator SetUpBattle()
         {
+
         GameObject playerGO = Instantiate(playerPrefab);
         playerUnit = playerGO.GetComponent<Unit>();
 
         GameObject enemyGO = Instantiate(enemyPrefab);
         enemyUnit = enemyGO.GetComponent<Unit>();
 
-        playerHUD.SetHUD(playerUnit);
-        enemyHUD.SetHUD(enemyUnit);
+        /*playerHUD.SetHUD(playerUnit);
+        enemyHUD.SetHUD(enemyUnit);*/
 
         yield return new WaitForSeconds(0.5f);
 

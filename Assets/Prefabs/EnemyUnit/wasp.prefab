@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2948978402288511233}
   - component: {fileID: 4475967966462796875}
+  - component: {fileID: 4891344423331163619}
   m_Layer: 0
   m_Name: wasp
   m_TagString: Untagged
@@ -82,3 +83,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4891344423331163619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8392912058048824506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4131828c3becf254eb4de61f4252b6b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stats: {fileID: 11400000, guid: 5765254a0af791f4ca28e2c012630c16, type: 2}

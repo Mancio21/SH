@@ -115,11 +115,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4131828c3becf254eb4de61f4252b6b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: MANDRAKE
-  unitLevel: 0
-  meleeDamage: 0
-  magicDamage: 0
-  maxHP: 0
-  currentHP: 0
-  maxMana: 0
-  currentMana: 0
+  stats: {fileID: 11400000, guid: 0ade7f10997a3734fbbe3fc3c7e06263, type: 2}

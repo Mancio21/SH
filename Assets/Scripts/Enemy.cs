@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Enemy : Unit
 {
-    public UnitStats enm;
+    public override void PerformTurn()
+        {
+        base.PerformTurn();
+        }
+    }
 
-}
+

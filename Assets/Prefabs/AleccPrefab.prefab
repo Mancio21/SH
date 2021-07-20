@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 2510542675776929714}
   - component: {fileID: 7628851911461866109}
   - component: {fileID: -7820359175246972524}
-  - component: {fileID: 8275131908485722365}
   - component: {fileID: -4084468784011904717}
   m_Layer: 0
   m_Name: AleccPrefab
@@ -104,25 +103,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &8275131908485722365
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4919700333074392575}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d317913c9db3abc47a267ffebe88d3e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Health: 100
-  Mana: 50
-  Attack: 21
-  Magic: 19
-  Defense: 15
-  MagicDefense: 14
-  Speed: 10
 --- !u!114 &-4084468784011904717
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -135,11 +115,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4131828c3becf254eb4de61f4252b6b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: ALECC
-  unitLevel: 1
-  meleeDamage: 21
-  magicDamage: 19
-  maxHP: 100
-  currentHP: 90
-  maxMana: 50
-  currentMana: 50
+  stats: {fileID: 11400000, guid: 86c732e620c876d4cb0f58a5ca575b86, type: 2}

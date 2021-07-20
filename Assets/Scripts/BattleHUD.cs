@@ -11,7 +11,7 @@ public class BattleHUD : MonoBehaviour
     public Slider hpSlider;
     public Slider manaSlider;
 
-    public void SetHUD(Unit unit)
+    /*public void SetHUD(Unit unit)
         {
         if (levelText)
             {
@@ -39,6 +39,6 @@ public class BattleHUD : MonoBehaviour
     public void SetMana(int mana)
         {
         manaSlider.value = mana;
-        }
+        }*/
 
 }

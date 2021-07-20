@@ -115,11 +115,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4131828c3becf254eb4de61f4252b6b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Werewolf
-  unitLevel: 0
-  meleeDamage: 18
-  magicDamage: 50
-  maxHP: 80
-  currentHP: 42
-  maxMana: 0
-  currentMana: 0
+  stats: {fileID: 11400000, guid: d8bb0960d87763b44b7c3ca864a50765, type: 2}
