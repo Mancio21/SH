@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d317913c9db3abc47a267ffebe88d3e5, type: 3}
   m_Name: Player Stats
   m_EditorClassIdentifier: 
-  unitName: 
-  health: 0
-  mana: 0
-  attack: 0
-  magic: 0
-  defense: 0
-  magicDefense: 0
-  speed: 5
+  unitName: ALECC
+  health: 100
+  mana: 50
+  attack: 21
+  magic: 19
+  defense: 15
+  magicDefense: 14
+  speed: 10

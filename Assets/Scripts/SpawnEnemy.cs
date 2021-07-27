@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class SpawnEnemy : MonoBehaviour
 {
-    [SerializeField] private GameObject enemyEncounterPrefab;
+   /* [SerializeField] private GameObject enemyEncounterPrefab;
 
 
     private bool spawning = false;
@@ -37,6 +37,6 @@ public class SpawnEnemy : MonoBehaviour
             }
         }
 
-
+    */
 
     }

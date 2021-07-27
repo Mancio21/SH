@@ -10,9 +10,11 @@ public class AttackState : StateMachineBehaviour
         {
         if (unit == null)
             {
-            unit = animator.GetComponent<Unit>();
+            unit = animator.GetComponentInParent<Unit>();
             }
-        unit.Attack(true, unit);
+        unit.MeleeAttack(CombatManager.Instance.currentTarget);
+
+        unit.EndTurn();
         }
 
     }
