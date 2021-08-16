@@ -366,7 +366,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.103773594, g: 0.103773594, b: 0.103773594, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -508,16 +508,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a574c01904b81b4183b5dea5cc6b142, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerInfo:
-    currentHP: 0
-    currentMana: 0
-    currentPos: {x: 0, y: 0, z: 0}
-    initializedHP: 0
   playerInCombat: {fileID: 7890963331226541573, guid: 09b928afe6b775b42adbfe40e586f5f6, type: 3}
   playerInOverworld: {fileID: 0}
   enemies: []
   actualScene: 
   checkpointScene: Safezone
+  sceneBeforeMenu: 
 --- !u!4 &1697707742
 Transform:
   m_ObjectHideFlags: 0
