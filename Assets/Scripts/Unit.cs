@@ -69,7 +69,11 @@ public class Unit : MonoBehaviour
             }
         else
             {
+            CombatManager.Instance.AddOnText($" {unitName} is death.");
+
             anim.SetTrigger("Death");
+
+            
             }
         }
 
@@ -77,16 +81,20 @@ public class Unit : MonoBehaviour
     public virtual void MeleeAttack(Unit enemy)
         {
         enemy.Damaged(attack);
-        
 
+        string text = $"{unitName} use a melee attack against {enemy.UnitName} and deals {attack} damages.";
+
+        CombatManager.Instance.WriteOnText(text);
 
         }
 
     public virtual void Magic(Unit enemy)
         {
         enemy.Damaged(magic);
-       
 
+        string text = $"{unitName} use a magic attack against {enemy.UnitName} and deals {magic} damages.";
+
+        CombatManager.Instance.WriteOnText(text);
 
         }
 

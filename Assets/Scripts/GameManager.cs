@@ -28,7 +28,7 @@ public class GameManager : Singleton<GameManager>
     {
         DontDestroyOnLoad(this);
 
-        
+        Application.targetFrameRate = 60;
         //playerInfo = new PlayerInfo { currentHP = 0, currentMana = 0, currentPos = Vector3.zero, initializedHP = false };
         }
     public void LoadScene(string sceneName)
@@ -62,6 +62,16 @@ public class GameManager : Singleton<GameManager>
             }
 
         StartCoroutine(LoadSceneAsync());
+        }
+
+    public void SetPlayerInfoAfterDeath()
+        {
+        playerInfo.currentHP = 1;
+
+        if (playerInfo.currentMana == 0)
+            {
+            playerInfo.currentMana = 1;
+            }
         }
 
 

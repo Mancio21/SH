@@ -64,11 +64,16 @@ public class Player : Unit
         GameManager.Instance.playerInfo.currentMana = currentMana;
         base.Magic(enemy);
             
+        
 
         }
     public void Shield()
         {
         shieldActive = true;
+
+        string text = $"{unitName} use shield. It will prevent half damage from next attack.";
+
+        CombatManager.Instance.WriteOnText(text);
 
         EndTurn();
         }
@@ -81,6 +86,8 @@ public class Player : Unit
             {
             //animazione di parata
             currentHealth -= (damage / 2);
+            shieldActive = false;
+            CombatManager.Instance.AddOnText(" But shield is active.");
 
             battleHUD.SetHP(currentHealth);
             if (currentHealth > 0)
@@ -89,6 +96,7 @@ public class Player : Unit
                 }
             else
                 {
+                CombatManager.Instance.AddOnText($" {unitName} is death.");
                 anim.SetTrigger("Death");
                 }
             }

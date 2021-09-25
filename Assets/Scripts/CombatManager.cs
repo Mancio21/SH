@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CombatManager : Singleton<CombatManager>
 {
@@ -28,12 +29,16 @@ public class CombatManager : Singleton<CombatManager>
     public Player currentPlayer;
     public List<Enemy> currentEnemies;
 
-
+    public GameObject textBoxObj;
+    private Text textBox;
 
 
     private void Start()
         {
         Init();
+
+        textBox = textBoxObj.GetComponentInChildren<Text>();
+        textBoxObj.SetActive(false);
         }
 
     public void Init()
@@ -63,6 +68,7 @@ public class CombatManager : Singleton<CombatManager>
         TurnManager();
         }
 
+    #region Turni
     public void TurnManager()
         {
         IEnumerator COTurnManager()
@@ -78,8 +84,10 @@ public class CombatManager : Singleton<CombatManager>
                         unit.PerformTurn();
                         yield return new WaitUntil(() => goOn);
 
-                        yield return new WaitForSeconds(1);
 
+
+                        yield return new WaitForSeconds(2);
+                        textBoxObj.SetActive(false);
                         goOn = false;
                         
                     }
@@ -92,6 +100,8 @@ public class CombatManager : Singleton<CombatManager>
         {
         if (currentPlayer.isDead)
             {
+            GameManager.Instance.SetPlayerInfoAfterDeath();
+
             playerLose?.Invoke();
 
             return;
@@ -119,8 +129,8 @@ public class CombatManager : Singleton<CombatManager>
 
         goOn = true;
 
-
         }
+    #endregion
 
     public void InvokeTargetChosen()
         {
@@ -130,6 +140,24 @@ public class CombatManager : Singleton<CombatManager>
     public void InvokeNeedTarget(Animator player, string animTrigger)
         {
         needTarget?.Invoke(player, animTrigger);
+        }
+
+    public void WriteOnText(string text)
+        {
+        textBox.text = text;
+        textBoxObj.SetActive(true);
+        }
+
+    public void AddOnText(string text)
+        {
+        IEnumerator SkipFrame()
+            {
+            yield return null;
+
+            textBox.text += text;
+            }
+        StartCoroutine(SkipFrame());
+        
         }
 
     }
