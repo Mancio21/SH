@@ -20,17 +20,31 @@ public class Enemy : Unit
             return;
             }
 
-        
+        IEnumerator WaitForTurn()
+            {
+                yield return new WaitUntil(() => finishPerforming);
 
-        CombatManager.Instance.currentTarget = CombatManager.Instance.currentPlayer;
+                finishPerforming = false;
 
-        anim.SetTrigger("Melee");
+                yield return new WaitForSeconds(speed);
+
+                CombatManager.Instance.currentTarget = CombatManager.Instance.currentPlayer;
+
+                anim.SetTrigger("Melee");
+                
+            }
+        StartCoroutine(WaitForTurn());
         }
 
     public override void EndTurn()
         {
+        if (!CombatManager.Instance.CheckBattleState())
+            {
+            finishPerforming = true;
+            speedBar.Init(speed);
+            PerformTurn();
+            }
 
-        CombatManager.Instance.CheckBattleState();
         }
     }
 

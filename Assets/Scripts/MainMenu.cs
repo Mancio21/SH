@@ -56,4 +56,9 @@ public class MainMenu : MonoBehaviour
             AudioListener.volume = 0;
             }
         }
+
+    public void SetTimeScale(int scale)
+        {
+        Time.timeScale = scale;
+        }
     }

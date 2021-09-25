@@ -85,6 +85,7 @@
     <Compile Include="Assets\Scripts\State Machine Behaviours\DeathState.cs" />
     <Compile Include="Assets\Scripts\SetTarget.cs" />
     <Compile Include="Assets\Scripts\Player Movement\MovementArrow.cs" />
+    <Compile Include="Assets\Scripts\SpeedBar.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -15,7 +15,7 @@ MonoBehaviour:
   unitName: ALECC
   health: 100
   mana: 50
-  attack: 21
+  attack: 23
   magic: 19
   defense: 15
   magicDefense: 14

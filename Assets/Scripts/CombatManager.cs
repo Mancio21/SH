@@ -11,8 +11,6 @@ public class CombatManager : Singleton<CombatManager>
 
     public List<Unit> battleQueue;
 
-    private bool goOn = false;
-
     public delegate void NeedTarget(Animator player, string animTrigger);
     public event NeedTarget needTarget;
     public delegate void TargetChosen();
@@ -32,6 +30,8 @@ public class CombatManager : Singleton<CombatManager>
     public GameObject textBoxObj;
     private Text textBox;
 
+    private bool combatFinished = false;
+
 
     private void Start()
         {
@@ -44,11 +44,10 @@ public class CombatManager : Singleton<CombatManager>
     public void Init()
         {
         currentEnemies = new List<Enemy>();
-        battleQueue = new List<Unit>();
 
-        List<Unit> battleQueueTemp = new List<Unit>();
+        battleQueue = new List<Unit>();
         currentPlayer = Instantiate(GameManager.Instance.playerInCombat, playerPos, Quaternion.identity).GetComponent<Unit>() as Player;
-        battleQueueTemp.Add(currentPlayer);
+        battleQueue.Add(currentPlayer);
 
 
         var enemies = GameManager.Instance.enemies;
@@ -58,53 +57,37 @@ public class CombatManager : Singleton<CombatManager>
             GameObject enemyGO = Instantiate(enemies[i], enemiesPos[i], Quaternion.identity);
 
             Unit enemy = enemyGO.GetComponent<Unit>();
-            battleQueueTemp.Add(enemy);
+            battleQueue.Add(enemy);
 
             currentEnemies.Add(enemy as Enemy);
             }
 
-        battleQueue = battleQueueTemp.OrderByDescending(unit => unit.Speed).ToList();
-
-        TurnManager();
-        }
-
-    #region Turni
-    public void TurnManager()
-        {
-        IEnumerator COTurnManager()
+        IEnumerator StartBattle()
             {
             yield return null;
-
-            while (true)
+            foreach (var unit in battleQueue)
                 {
-                foreach (var unit in battleQueue)
-                    {
-
-                    yield return null;    
-                        unit.PerformTurn();
-                        yield return new WaitUntil(() => goOn);
-
-
-
-                        yield return new WaitForSeconds(2);
-                        textBoxObj.SetActive(false);
-                        goOn = false;
-                        
-                    }
+                unit.PerformTurn();
                 }
+
             }
-        StartCoroutine(COTurnManager());
+        StartCoroutine(StartBattle());
         }
 
-    public void CheckBattleState()
+    public bool CheckBattleState()
         {
+        if (combatFinished)
+            {
+            return true;
+            }
         if (currentPlayer.isDead)
             {
             GameManager.Instance.SetPlayerInfoAfterDeath();
 
             playerLose?.Invoke();
-
-            return;
+            DisableBars();
+            combatFinished = true;
+            return true;
             }
 
         else
@@ -122,15 +105,14 @@ public class CombatManager : Singleton<CombatManager>
             if (allDeath)
                 {
                 playerWin?.Invoke();
-
-                return;
+                DisableBars();
+                combatFinished = true;
+                return true;
                 }
             }
 
-        goOn = true;
-
+        return false;
         }
-    #endregion
 
     public void InvokeTargetChosen()
         {
@@ -160,4 +142,12 @@ public class CombatManager : Singleton<CombatManager>
         
         }
 
+    public void DisableBars()
+        {
+        foreach (var unit in battleQueue)
+            {
+            unit.speedBar.FinishBattle();
+            unit.StopAllCoroutines();
+            }
+        }
     }

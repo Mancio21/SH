@@ -40,10 +40,20 @@ public class Player : Unit
             return;
             }
 
+        IEnumerator WaitForTurn()
+            {           
+                yield return new WaitUntil(() => finishPerforming);
 
-        abilityButtons.SetActive(true);
+                finishPerforming = false;
 
-        CheckSpells();
+                yield return new WaitForSeconds(speed);
+                
+                abilityButtons.SetActive(true);
+
+                CheckSpells();
+                
+            }
+        StartCoroutine(WaitForTurn());
         }
 
 
@@ -97,6 +107,8 @@ public class Player : Unit
             else
                 {
                 CombatManager.Instance.AddOnText($" {unitName} is death.");
+                StopAllCoroutines();
+
                 anim.SetTrigger("Death");
                 }
             }
@@ -115,9 +127,16 @@ public class Player : Unit
 
     public override void EndTurn()
         {
-        CombatManager.Instance.CheckBattleState();
+        if (!CombatManager.Instance.CheckBattleState())
+            {
+            finishPerforming = true;
+            speedBar.Init(speed);
+            PerformTurn();
+            }
+
 
         abilityButtons.SetActive(false);
+
         }
 
     private void CheckSpells()

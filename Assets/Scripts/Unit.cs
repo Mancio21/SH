@@ -27,15 +27,22 @@ public class Unit : MonoBehaviour
 
 
     protected BattleHUD battleHUD;
-
     public bool isDead = false;
+    protected bool finishPerforming = false;
+
+    public SpeedBar speedBar;
+
+
 
     private void Awake()
         {
         UpdateStats(stats);
         anim = GetComponentInChildren<Animator>();
         battleHUD = GetComponentInChildren<BattleHUD>();
+        speedBar = GetComponentInChildren<SpeedBar>();
         battleHUD.SetHUD(this);
+        finishPerforming = true;
+        speedBar.Init(speed);
         }
 
     public virtual void UpdateStats(UnitStats stats)
@@ -71,8 +78,11 @@ public class Unit : MonoBehaviour
             {
             CombatManager.Instance.AddOnText($" {unitName} is death.");
 
-            anim.SetTrigger("Death");
+            StopAllCoroutines();
 
+            speedBar.FinishBattle();
+
+            anim.SetTrigger("Death");
             
             }
         }
