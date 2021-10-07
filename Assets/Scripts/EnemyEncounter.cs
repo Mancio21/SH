@@ -12,12 +12,11 @@ public class EnemyEncounter : MonoBehaviour
     public Vector2 percentages = new Vector2(70, 90);
     public float treshold;
 
-    private void Awake()
+    private IEnumerator Start()
         {
+        yield return null;
+
         player = FindObjectOfType<PlayerMovement>().transform;
-        }
-    private void Start()
-        {
 
         GameManager.Instance.playerInOverworld = player;
 

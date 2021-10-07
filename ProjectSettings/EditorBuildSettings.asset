@@ -11,28 +11,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu iniziale.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
-    path: Assets/Scenes/Mappa.unity
-    guid: 8983e859706875e42afe798228fe9044
   - enabled: 1
     path: Assets/Scenes/Combat scene.unity
     guid: a1152e3a2a800094299b057441b51c7d
-  - enabled: 0
-    path: Assets/Scenes/Caricamento.unity
-    guid: 9302d85719180be448eee9fb7ff1b357
-  - enabled: 0
-    path: Assets/Scenes/Cartina.unity
-    guid: f706a586ba5b34b47a240a39b643c4b5
   - enabled: 1
     path: Assets/Scenes/Options.unity
     guid: 23b8cb4cd7517f34db72e9ca30727720
   - enabled: 1
-    path: Assets/Scenes/Gameplay maps/Dungeon.unity
+    path: Assets/Scenes/Gameplay maps/Dungeons/Dungeon.unity
     guid: b6a01b0fb40467349b0345d3c72f9afb
   - enabled: 1
     path: Assets/Scenes/Gameplay maps/SafeZone.unity
     guid: c3729acd044a5a94eab172add36b4667
-  - enabled: 0
-    path: Assets/Scenes/Gameplay maps/Desert.unity
+  - enabled: 1
+    path: Assets/Scenes/Gameplay maps/Deserts/Desert.unity
     guid: 32273824d1a47104dbfa1b1aff3f1aae
+  - enabled: 1
+    path: Assets/Scenes/Gameplay maps/Mountains/Mountain_boss.unity
+    guid: e5c708c09b722ac4581c4d54fc8febc0
+  - enabled: 1
+    path: Assets/Scenes/Gameplay maps/Mountains/Mountain.unity
+    guid: bc9b2c4040ac694468ab77ed09c6585a
   m_configObjects: {}

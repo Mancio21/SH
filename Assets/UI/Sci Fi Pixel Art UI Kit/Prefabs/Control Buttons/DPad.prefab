@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3724888014811935586}
   - component: {fileID: 3724888014811935587}
   - component: {fileID: 1701930959}
+  - component: {fileID: 4208414756047880351}
   m_Layer: 0
   m_Name: DPad Down
   m_TagString: Untagged
@@ -133,6 +134,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: 1
+--- !u!114 &4208414756047880351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3724888014811935597}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: -4, y: 6}
+  m_UseGraphicAlpha: 1
 --- !u!1 &3724888016233257743
 GameObject:
   m_ObjectHideFlags: 0
@@ -146,6 +162,7 @@ GameObject:
   - component: {fileID: 3724888016233257740}
   - component: {fileID: 3724888016233257741}
   - component: {fileID: 1701930957}
+  - component: {fileID: 8738556867167818484}
   m_Layer: 0
   m_Name: DPad Right
   m_TagString: Untagged
@@ -266,6 +283,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: 2
+--- !u!114 &8738556867167818484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3724888016233257743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: -4, y: 6}
+  m_UseGraphicAlpha: 1
 --- !u!1 &3724888016671879728
 GameObject:
   m_ObjectHideFlags: 0
@@ -343,6 +375,7 @@ GameObject:
   - component: {fileID: 3724888016775140685}
   - component: {fileID: 3724888016775140686}
   - component: {fileID: 1701930960}
+  - component: {fileID: 8391092278927575906}
   m_Layer: 0
   m_Name: DPad Left
   m_TagString: Untagged
@@ -463,6 +496,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: 3
+--- !u!114 &8391092278927575906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3724888016775140680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: -4, y: 6}
+  m_UseGraphicAlpha: 1
 --- !u!1 &4121885672891927586
 GameObject:
   m_ObjectHideFlags: 0
@@ -476,6 +524,7 @@ GameObject:
   - component: {fileID: 4121885672891927585}
   - component: {fileID: 4121885672891927584}
   - component: {fileID: 1701930958}
+  - component: {fileID: 7847447350010017002}
   m_Layer: 0
   m_Name: DPad Up
   m_TagString: Untagged
@@ -596,3 +645,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   direction: 0
+--- !u!114 &7847447350010017002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4121885672891927586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: -4, y: 6}
+  m_UseGraphicAlpha: 1

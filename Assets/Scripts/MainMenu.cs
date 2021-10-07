@@ -26,7 +26,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartGame()
         {
-        GameManager.Instance.LoadScene("Dungeon");
+        GameManager.Instance.LoadScene("Desert");
         }
 
     public void LoadScene(string sceneName)

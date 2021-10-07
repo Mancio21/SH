@@ -5,6 +5,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+public enum SpawnSide
+    {
+    left, right, up, bottom
+    }
 public class GameManager : Singleton<GameManager>
     {
     public PlayerInfo playerInfo = new PlayerInfo { currentHP = 0, currentMana = 0, currentPos = Vector3.zero, initializedHP = false }; 
@@ -15,6 +19,8 @@ public class GameManager : Singleton<GameManager>
     public string actualScene;
     public string checkpointScene = "Safezone";
     public string sceneBeforeMenu;
+
+    public SpawnSide actualSide;
     
     public struct PlayerInfo
         {
@@ -30,6 +36,8 @@ public class GameManager : Singleton<GameManager>
 
         Application.targetFrameRate = 60;
         //playerInfo = new PlayerInfo { currentHP = 0, currentMana = 0, currentPos = Vector3.zero, initializedHP = false };
+
+        actualSide = SpawnSide.left;
         }
     public void LoadScene(string sceneName)
         {

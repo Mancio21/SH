@@ -514,6 +514,7 @@ MonoBehaviour:
   actualScene: 
   checkpointScene: Safezone
   sceneBeforeMenu: 
+  actualSide: 0
 --- !u!4 &1697707742
 Transform:
   m_ObjectHideFlags: 0

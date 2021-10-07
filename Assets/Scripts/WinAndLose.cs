@@ -25,6 +25,7 @@ public class WinAndLose : MonoBehaviour
     public void Lose()
         {
         Debug.Log("lose");
+        GameManager.Instance.actualSide = SpawnSide.up;
         GameManager.Instance.LoadScene(GameManager.Instance.checkpointScene);
         }
 
