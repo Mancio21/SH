@@ -20,3 +20,4 @@ MonoBehaviour:
   defense: 20
   magicDefense: 5
   speed: 5
+  exp: 30

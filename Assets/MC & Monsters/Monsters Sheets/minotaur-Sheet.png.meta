@@ -1,0 +1,2380 @@
+fileFormatVersion: 2
+guid: 3d7295baff091d546840819d6c0125be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8711451971818167039
+    second: minotaur-Sheet_0
+  - first:
+      213: -5309702313768481318
+    second: minotaur-Sheet_1
+  - first:
+      213: -2969106472671580608
+    second: minotaur-Sheet_2
+  - first:
+      213: 883343007983286124
+    second: minotaur-Sheet_3
+  - first:
+      213: -7652129301925389991
+    second: minotaur-Sheet_4
+  - first:
+      213: -5805948577181778674
+    second: minotaur-Sheet_5
+  - first:
+      213: 4053973904938445870
+    second: minotaur-Sheet_6
+  - first:
+      213: -8734987330052706189
+    second: minotaur-Sheet_7
+  - first:
+      213: -6400402958670296470
+    second: minotaur-Sheet_8
+  - first:
+      213: 3538577244851249464
+    second: minotaur-Sheet_9
+  - first:
+      213: -6843853440489570402
+    second: minotaur-Sheet_10
+  - first:
+      213: -7967208121303778140
+    second: minotaur-Sheet_11
+  - first:
+      213: -3650813838751645365
+    second: minotaur-Sheet_12
+  - first:
+      213: 7490397529681059504
+    second: minotaur-Sheet_13
+  - first:
+      213: 5974842775257669939
+    second: minotaur-Sheet_14
+  - first:
+      213: 6474497859056200441
+    second: minotaur-Sheet_15
+  - first:
+      213: -3571614580322658278
+    second: minotaur-Sheet_16
+  - first:
+      213: 7692325774445939858
+    second: minotaur-Sheet_17
+  - first:
+      213: -3882139270720588640
+    second: minotaur-Sheet_18
+  - first:
+      213: -3379026022337082323
+    second: minotaur-Sheet_19
+  - first:
+      213: 774048666529154311
+    second: minotaur-Sheet_20
+  - first:
+      213: 3554195527306753466
+    second: minotaur-Sheet_21
+  - first:
+      213: -8171802398387108971
+    second: minotaur-Sheet_22
+  - first:
+      213: 7913562031019975490
+    second: minotaur-Sheet_23
+  - first:
+      213: -2869375163246910227
+    second: minotaur-Sheet_24
+  - first:
+      213: 4628390724133099178
+    second: minotaur-Sheet_25
+  - first:
+      213: -1876872501226534209
+    second: minotaur-Sheet_26
+  - first:
+      213: 7187061343191943974
+    second: minotaur-Sheet_27
+  - first:
+      213: 6763290857299595282
+    second: minotaur-Sheet_28
+  - first:
+      213: -723860727031486238
+    second: minotaur-Sheet_29
+  - first:
+      213: 6299929532208968856
+    second: minotaur-Sheet_30
+  - first:
+      213: -5158513487611116458
+    second: minotaur-Sheet_31
+  - first:
+      213: 8143513521269391879
+    second: minotaur-Sheet_32
+  - first:
+      213: 5926551897404488765
+    second: minotaur-Sheet_33
+  - first:
+      213: -8870638199607568910
+    second: minotaur-Sheet_34
+  - first:
+      213: -6930309305010201482
+    second: minotaur-Sheet_35
+  - first:
+      213: 2450612015234688293
+    second: minotaur-Sheet_36
+  - first:
+      213: -2393933523820372640
+    second: minotaur-Sheet_37
+  - first:
+      213: 5374091955194587986
+    second: minotaur-Sheet_38
+  - first:
+      213: -939974727004599470
+    second: minotaur-Sheet_39
+  - first:
+      213: -6424155078491217889
+    second: minotaur-Sheet_40
+  - first:
+      213: -6825016726514390941
+    second: minotaur-Sheet_41
+  - first:
+      213: 9220342579138805756
+    second: minotaur-Sheet_42
+  - first:
+      213: 1816797325808831442
+    second: minotaur-Sheet_43
+  - first:
+      213: -8139592119053551622
+    second: minotaur-Sheet_44
+  - first:
+      213: -8954112148556517741
+    second: minotaur-Sheet_45
+  - first:
+      213: 7889714425085409781
+    second: minotaur-Sheet_46
+  - first:
+      213: 2195729796890974190
+    second: minotaur-Sheet_47
+  - first:
+      213: -5038981404528744801
+    second: minotaur-Sheet_48
+  - first:
+      213: 7585040335444644542
+    second: minotaur-Sheet_49
+  - first:
+      213: 1783932735628846298
+    second: minotaur-Sheet_50
+  - first:
+      213: -8289197764086465008
+    second: minotaur-Sheet_51
+  - first:
+      213: -1793041174272188310
+    second: minotaur-Sheet_52
+  - first:
+      213: -7544254243084799114
+    second: minotaur-Sheet_53
+  - first:
+      213: 8256633457392672574
+    second: minotaur-Sheet_54
+  - first:
+      213: -5733468007880419884
+    second: minotaur-Sheet_55
+  - first:
+      213: 8624603394516204867
+    second: minotaur-Sheet_56
+  - first:
+      213: -1791735531452869391
+    second: minotaur-Sheet_57
+  - first:
+      213: -7030914725084531392
+    second: minotaur-Sheet_58
+  - first:
+      213: 4738818838342683378
+    second: minotaur-Sheet_59
+  - first:
+      213: 6440207391723820347
+    second: minotaur-Sheet_60
+  - first:
+      213: 1963378772104708393
+    second: minotaur-Sheet_61
+  - first:
+      213: -6102006082489357273
+    second: minotaur-Sheet_62
+  - first:
+      213: -5397120781939576960
+    second: minotaur-Sheet_63
+  - first:
+      213: -6369365699157750110
+    second: minotaur-Sheet_64
+  - first:
+      213: -7593614896329138385
+    second: minotaur-Sheet_65
+  - first:
+      213: -1823964169105463199
+    second: minotaur-Sheet_66
+  - first:
+      213: -5112517018457029966
+    second: minotaur-Sheet_67
+  - first:
+      213: 3738832329166817600
+    second: minotaur-Sheet_68
+  - first:
+      213: 1504690775881355710
+    second: minotaur-Sheet_69
+  - first:
+      213: 2855303620508526757
+    second: minotaur-Sheet_70
+  - first:
+      213: 8363126764187970141
+    second: minotaur-Sheet_71
+  - first:
+      213: 6389103946286141013
+    second: minotaur-Sheet_72
+  - first:
+      213: -6136708604028874489
+    second: minotaur-Sheet_73
+  - first:
+      213: 3915953110281417463
+    second: minotaur-Sheet_74
+  - first:
+      213: 1278003706778090026
+    second: minotaur-Sheet_75
+  - first:
+      213: 51368530021918058
+    second: minotaur-Sheet_76
+  - first:
+      213: 6702540503964348638
+    second: minotaur-Sheet_77
+  - first:
+      213: -329999560078833013
+    second: minotaur-Sheet_78
+  - first:
+      213: 6632336393838486778
+    second: minotaur-Sheet_79
+  - first:
+      213: -1479877449243150799
+    second: minotaur-Sheet_80
+  - first:
+      213: -9217510083576054579
+    second: minotaur-Sheet_81
+  - first:
+      213: -3690978010346192521
+    second: minotaur-Sheet_82
+  - first:
+      213: 7452063523693540797
+    second: minotaur-Sheet_83
+  - first:
+      213: -8432319264021123350
+    second: minotaur-Sheet_84
+  - first:
+      213: 259471157752732951
+    second: minotaur-Sheet_85
+  - first:
+      213: 596410471129621705
+    second: minotaur-Sheet_86
+  - first:
+      213: 7497581966492069486
+    second: minotaur-Sheet_87
+  - first:
+      213: -2163368873840728535
+    second: minotaur-Sheet_88
+  - first:
+      213: -7897989139230788088
+    second: minotaur-Sheet_89
+  - first:
+      213: 6550360195706099592
+    second: minotaur-Sheet_90
+  - first:
+      213: 8654503625381762189
+    second: minotaur-Sheet_91
+  - first:
+      213: 1612803830749381971
+    second: minotaur-Sheet_92
+  - first:
+      213: 2247888020885444541
+    second: minotaur-Sheet_93
+  - first:
+      213: 1548657712772144402
+    second: minotaur-Sheet_94
+  - first:
+      213: -5521938239646846261
+    second: minotaur-Sheet_95
+  - first:
+      213: 5984744785921904781
+    second: minotaur-Sheet_96
+  - first:
+      213: 5225321354846396487
+    second: minotaur-Sheet_97
+  - first:
+      213: -4864526358296532607
+    second: minotaur-Sheet_98
+  - first:
+      213: -3237124086513233144
+    second: minotaur-Sheet_99
+  - first:
+      213: 9151450482165728894
+    second: minotaur-Sheet_100
+  - first:
+      213: -828746091672901894
+    second: minotaur-Sheet_101
+  - first:
+      213: -5719640036924810135
+    second: minotaur-Sheet_102
+  - first:
+      213: -7775518577773197452
+    second: minotaur-Sheet_103
+  - first:
+      213: -3157433849372316360
+    second: minotaur-Sheet_104
+  - first:
+      213: 2095307889525731208
+    second: minotaur-Sheet_105
+  - first:
+      213: 259857658040701256
+    second: minotaur-Sheet_106
+  - first:
+      213: -2993189573148732350
+    second: minotaur-Sheet_107
+  - first:
+      213: -7587122098653814837
+    second: minotaur-Sheet_108
+  - first:
+      213: -3172813656659340622
+    second: minotaur-Sheet_109
+  - first:
+      213: 6151937373003144567
+    second: minotaur-Sheet_110
+  - first:
+      213: -8987374481143498662
+    second: minotaur-Sheet_111
+  - first:
+      213: 701682150969704381
+    second: minotaur-Sheet_112
+  - first:
+      213: -6974501377251780120
+    second: minotaur-Sheet_113
+  - first:
+      213: -8255314412853894131
+    second: minotaur-Sheet_114
+  - first:
+      213: 4028181896997350922
+    second: minotaur-Sheet_115
+  - first:
+      213: 198756440019708841
+    second: minotaur-Sheet_116
+  - first:
+      213: -7926871806836817621
+    second: minotaur-Sheet_117
+  - first:
+      213: -2573052429868733395
+    second: minotaur-Sheet_118
+  - first:
+      213: 5313665995952784379
+    second: minotaur-Sheet_119
+  - first:
+      213: 4948744391202490572
+    second: minotaur-Sheet_120
+  - first:
+      213: -1646440668322368587
+    second: minotaur-Sheet_121
+  - first:
+      213: 2138710161970176090
+    second: minotaur-Sheet_122
+  - first:
+      213: -4192106851654750186
+    second: minotaur-Sheet_123
+  - first:
+      213: 5490232221424820189
+    second: minotaur-Sheet_124
+  - first:
+      213: 460510989980173066
+    second: minotaur-Sheet_125
+  - first:
+      213: -4606232505198856685
+    second: minotaur-Sheet_126
+  - first:
+      213: -1490521441117815145
+    second: minotaur-Sheet_127
+  - first:
+      213: -5899241107566643137
+    second: minotaur-Sheet_128
+  - first:
+      213: -5154509931714998298
+    second: minotaur-Sheet_129
+  - first:
+      213: -5071407494817088224
+    second: minotaur-Sheet_130
+  - first:
+      213: -7458646807003248472
+    second: minotaur-Sheet_131
+  - first:
+      213: 8396333428139357621
+    second: minotaur-Sheet_132
+  - first:
+      213: 5854709684737043310
+    second: minotaur-Sheet_133
+  - first:
+      213: 7395842385916426393
+    second: minotaur-Sheet_134
+  - first:
+      213: 1545135925473170688
+    second: minotaur-Sheet_135
+  - first:
+      213: -8827444272357646846
+    second: minotaur-Sheet_136
+  - first:
+      213: 7369565037327425479
+    second: minotaur-Sheet_137
+  - first:
+      213: -4001368224393058465
+    second: minotaur-Sheet_138
+  - first:
+      213: -6483154100413981080
+    second: minotaur-Sheet_139
+  - first:
+      213: -5826708055793524875
+    second: minotaur-Sheet_140
+  - first:
+      213: 5094720474321991746
+    second: minotaur-Sheet_141
+  - first:
+      213: -7149711478465603109
+    second: minotaur-Sheet_142
+  - first:
+      213: 375949296897085141
+    second: minotaur-Sheet_143
+  - first:
+      213: 6731508149257184423
+    second: minotaur-Sheet_144
+  - first:
+      213: -991446354437086506
+    second: minotaur-Sheet_145
+  - first:
+      213: 2927029703412660158
+    second: minotaur-Sheet_146
+  - first:
+      213: 3655492041420178350
+    second: minotaur-Sheet_147
+  - first:
+      213: -8607838959349302154
+    second: minotaur-Sheet_148
+  - first:
+      213: -2593496704489519370
+    second: minotaur-Sheet_149
+  - first:
+      213: -6036806200224953790
+    second: minotaur-Sheet_150
+  - first:
+      213: -7247389442234711932
+    second: minotaur-Sheet_151
+  - first:
+      213: 8418544628464913550
+    second: minotaur-Sheet_152
+  - first:
+      213: -9072992506278947631
+    second: minotaur-Sheet_153
+  - first:
+      213: -2924010772792048446
+    second: minotaur-Sheet_154
+  - first:
+      213: 2450452540283156612
+    second: minotaur-Sheet_155
+  - first:
+      213: 5172867405978236168
+    second: minotaur-Sheet_156
+  - first:
+      213: 1958178101547586714
+    second: minotaur-Sheet_157
+  - first:
+      213: 7355495409651947190
+    second: minotaur-Sheet_158
+  - first:
+      213: -5819653898495564062
+    second: minotaur-Sheet_159
+  - first:
+      213: -7684334946207788485
+    second: minotaur-Sheet_160
+  - first:
+      213: -7455961620359824288
+    second: minotaur-Sheet_161
+  - first:
+      213: 1008727955592764928
+    second: minotaur-Sheet_162
+  - first:
+      213: 1546137603939602447
+    second: minotaur-Sheet_163
+  - first:
+      213: 1911201033397490390
+    second: minotaur-Sheet_164
+  - first:
+      213: 1650325703925774586
+    second: minotaur-Sheet_165
+  - first:
+      213: -2727194210314165454
+    second: minotaur-Sheet_166
+  - first:
+      213: -8052556545110634515
+    second: minotaur-Sheet_167
+  - first:
+      213: -4870262990821783834
+    second: minotaur-Sheet_168
+  - first:
+      213: -2968824724329530648
+    second: minotaur-Sheet_169
+  - first:
+      213: -747424157863354006
+    second: minotaur-Sheet_170
+  - first:
+      213: 3076080133274048158
+    second: minotaur-Sheet_171
+  - first:
+      213: -1592325660245315094
+    second: minotaur-Sheet_172
+  - first:
+      213: 7250905598527079272
+    second: minotaur-Sheet_173
+  - first:
+      213: -8583249758297594504
+    second: minotaur-Sheet_174
+  - first:
+      213: -3167294868277545204
+    second: minotaur-Sheet_175
+  - first:
+      213: -858678710006888672
+    second: minotaur-Sheet_176
+  - first:
+      213: 846643651304030091
+    second: minotaur-Sheet_177
+  - first:
+      213: 8270203271882845859
+    second: minotaur-Sheet_178
+  - first:
+      213: 8321670532134488432
+    second: minotaur-Sheet_179
+  - first:
+      213: -9192692666695900390
+    second: minotaur-Sheet_180
+  - first:
+      213: -2611830134461333485
+    second: minotaur-Sheet_181
+  - first:
+      213: -1392018502013524487
+    second: minotaur-Sheet_182
+  - first:
+      213: 5723509529741976659
+    second: minotaur-Sheet_183
+  - first:
+      213: 976268955036942739
+    second: minotaur-Sheet_184
+  - first:
+      213: 3201968091889899368
+    second: minotaur-Sheet_185
+  - first:
+      213: 6725835212213226681
+    second: minotaur-Sheet_186
+  - first:
+      213: -1667010340549741562
+    second: minotaur-Sheet_187
+  - first:
+      213: 35771065048063717
+    second: minotaur-Sheet_188
+  - first:
+      213: -4423910434609483911
+    second: minotaur-Sheet_189
+  - first:
+      213: 7439834719681514821
+    second: minotaur-Sheet_190
+  - first:
+      213: 7065103917932792287
+    second: minotaur-Sheet_191
+  - first:
+      213: -4243650239521889720
+    second: minotaur-Sheet_192
+  - first:
+      213: 1313028841392463155
+    second: minotaur-Sheet_193
+  - first:
+      213: 2991020803959956323
+    second: minotaur-Sheet_194
+  - first:
+      213: 751252286966665847
+    second: minotaur-Sheet_195
+  - first:
+      213: -5607877464690814023
+    second: minotaur-Sheet_196
+  - first:
+      213: -7277033199256824142
+    second: minotaur-Sheet_197
+  - first:
+      213: -3701850034802841294
+    second: minotaur-Sheet_198
+  - first:
+      213: 1136153195894008670
+    second: minotaur-Sheet_199
+  - first:
+      213: 7850628506109061660
+    second: minotaur-Sheet_200
+  - first:
+      213: 2136535235861267472
+    second: minotaur-Sheet_201
+  - first:
+      213: 2699687924971024543
+    second: minotaur-Sheet_202
+  - first:
+      213: -8693635584165196311
+    second: minotaur-Sheet_203
+  - first:
+      213: -2391130335386969318
+    second: minotaur-Sheet_204
+  - first:
+      213: 194711969425957033
+    second: minotaur-Sheet_205
+  - first:
+      213: -8139509510233648993
+    second: minotaur-Sheet_206
+  - first:
+      213: -7812909981985968781
+    second: minotaur-Sheet_207
+  - first:
+      213: -2652561393484727968
+    second: minotaur-Sheet_208
+  - first:
+      213: 4006707993720983360
+    second: minotaur-Sheet_209
+  - first:
+      213: -6909064627100984398
+    second: minotaur-Sheet_210
+  - first:
+      213: 2909644692557315840
+    second: minotaur-Sheet_211
+  - first:
+      213: -3417203071924944437
+    second: minotaur-Sheet_212
+  - first:
+      213: -3372629768970448923
+    second: minotaur-Sheet_213
+  - first:
+      213: 925324480631324113
+    second: minotaur-Sheet_214
+  - first:
+      213: -4115862039133567226
+    second: minotaur-Sheet_215
+  - first:
+      213: -46883469075703869
+    second: minotaur-Sheet_216
+  - first:
+      213: -7569500602753743104
+    second: minotaur-Sheet_217
+  - first:
+      213: 3261081480683233675
+    second: minotaur-Sheet_218
+  - first:
+      213: -3975138407417495227
+    second: minotaur-Sheet_219
+  - first:
+      213: 9142168523106748229
+    second: minotaur-Sheet_220
+  - first:
+      213: -7688605145485076180
+    second: minotaur-Sheet_221
+  - first:
+      213: -5785871920241602623
+    second: minotaur-Sheet_222
+  - first:
+      213: -8859096829741448619
+    second: minotaur-Sheet_223
+  - first:
+      213: 526097416782640928
+    second: minotaur-Sheet_224
+  - first:
+      213: 4208522518215705509
+    second: minotaur-Sheet_225
+  - first:
+      213: 913902097368353313
+    second: minotaur-Sheet_226
+  - first:
+      213: -8302802963976350511
+    second: minotaur-Sheet_227
+  - first:
+      213: -1549461290326664310
+    second: minotaur-Sheet_228
+  - first:
+      213: 3767091892121773022
+    second: minotaur-Sheet_229
+  - first:
+      213: -7601756568345432877
+    second: minotaur-Sheet_230
+  - first:
+      213: 7270411342981750838
+    second: minotaur-Sheet_231
+  - first:
+      213: -4571514751034834114
+    second: minotaur-Sheet_232
+  - first:
+      213: -791529922812080698
+    second: minotaur-Sheet_233
+  - first:
+      213: 7265862379015749912
+    second: minotaur-Sheet_234
+  - first:
+      213: 2334815325456577666
+    second: minotaur-Sheet_235
+  - first:
+      213: -7694778685952349494
+    second: minotaur-Sheet_236
+  - first:
+      213: -4134144020219496555
+    second: minotaur-Sheet_237
+  - first:
+      213: 2879600498076544042
+    second: minotaur-Sheet_238
+  - first:
+      213: -756080155161051240
+    second: minotaur-Sheet_239
+  - first:
+      213: -4759158488247241336
+    second: minotaur-Sheet_240
+  - first:
+      213: 8212186578354675331
+    second: minotaur-Sheet_241
+  - first:
+      213: -550461263105171594
+    second: minotaur-Sheet_242
+  - first:
+      213: -1067665129158241966
+    second: minotaur-Sheet_243
+  - first:
+      213: 4421617868494960232
+    second: minotaur-Sheet_244
+  - first:
+      213: -1501627913286112632
+    second: minotaur-Sheet_245
+  - first:
+      213: -8029488439599691349
+    second: minotaur-Sheet_246
+  - first:
+      213: -4377094998491802513
+    second: minotaur-Sheet_247
+  - first:
+      213: -838950637676215691
+    second: minotaur-Sheet_248
+  - first:
+      213: -8799058597045009604
+    second: minotaur-Sheet_249
+  - first:
+      213: 4546374820830053359
+    second: minotaur-Sheet_250
+  - first:
+      213: 4577854313581634128
+    second: minotaur-Sheet_251
+  - first:
+      213: 8591414640951786794
+    second: minotaur-Sheet_252
+  - first:
+      213: 1051098287437025512
+    second: minotaur-Sheet_253
+  - first:
+      213: -7994163126420629224
+    second: minotaur-Sheet_254
+  - first:
+      213: -8659876110660326297
+    second: minotaur-Sheet_255
+  - first:
+      213: -230538880376436917
+    second: minotaur-Sheet_256
+  - first:
+      213: 9018946508381188035
+    second: minotaur-Sheet_257
+  - first:
+      213: -2462724351312897347
+    second: minotaur-Sheet_258
+  - first:
+      213: 5584616752740530797
+    second: minotaur-Sheet_259
+  - first:
+      213: -1204209733841084739
+    second: minotaur-Sheet_260
+  - first:
+      213: 8069408264405604661
+    second: minotaur-Sheet_261
+  - first:
+      213: -6908340696269720524
+    second: minotaur-Sheet_262
+  - first:
+      213: -6680557782259885255
+    second: minotaur-Sheet_263
+  - first:
+      213: -2124897786211010730
+    second: minotaur-Sheet_264
+  - first:
+      213: 7913785196346641471
+    second: minotaur-Sheet_265
+  - first:
+      213: 2385622459562816065
+    second: minotaur-Sheet_266
+  - first:
+      213: 3190156780394992686
+    second: minotaur-Sheet_267
+  - first:
+      213: 643743909924253876
+    second: minotaur-Sheet_268
+  - first:
+      213: 2277929684198020640
+    second: minotaur-Sheet_269
+  - first:
+      213: -8915007336641841006
+    second: minotaur-Sheet_270
+  - first:
+      213: 2679265906167581393
+    second: minotaur-Sheet_271
+  - first:
+      213: -3319730862353595453
+    second: minotaur-Sheet_272
+  - first:
+      213: 6577237256552021367
+    second: minotaur-Sheet_273
+  - first:
+      213: 6055450338559601912
+    second: minotaur-Sheet_274
+  - first:
+      213: -8639003698951592101
+    second: minotaur-Sheet_275
+  - first:
+      213: 7705050042875276808
+    second: minotaur-Sheet_276
+  - first:
+      213: 3968632362334142455
+    second: minotaur-Sheet_277
+  - first:
+      213: -1036304883182816823
+    second: minotaur-Sheet_278
+  - first:
+      213: 799705248607778186
+    second: minotaur-Sheet_279
+  - first:
+      213: -2575576902429172967
+    second: minotaur-Sheet_280
+  - first:
+      213: 775745085079735612
+    second: minotaur-Sheet_281
+  - first:
+      213: -3156772361243284560
+    second: minotaur-Sheet_282
+  - first:
+      213: 5107019073847115782
+    second: minotaur-Sheet_283
+  - first:
+      213: 8404466046375975352
+    second: minotaur-Sheet_284
+  - first:
+      213: 3962483957895605138
+    second: minotaur-Sheet_285
+  - first:
+      213: -2096721274172347836
+    second: minotaur-Sheet_286
+  - first:
+      213: -8724912729695849358
+    second: minotaur-Sheet_287
+  - first:
+      213: 2898102896562286510
+    second: minotaur-Sheet_288
+  - first:
+      213: -6575237344321077815
+    second: minotaur-Sheet_289
+  - first:
+      213: -1539955519655266626
+    second: minotaur-Sheet_290
+  - first:
+      213: 1482945093679464930
+    second: minotaur-Sheet_291
+  - first:
+      213: 6422248036778038663
+    second: minotaur-Sheet_292
+  - first:
+      213: 2833848821957473494
+    second: minotaur-Sheet_293
+  - first:
+      213: 3557600948020141621
+    second: minotaur-Sheet_294
+  - first:
+      213: -1928184099636133498
+    second: minotaur-Sheet_295
+  - first:
+      213: -8170471355236789336
+    second: minotaur-Sheet_296
+  - first:
+      213: -5842705961374218735
+    second: minotaur-Sheet_297
+  - first:
+      213: 1046399262577038074
+    second: minotaur-Sheet_298
+  - first:
+      213: -5931804486587297520
+    second: minotaur-Sheet_299
+  - first:
+      213: 2682696351732234850
+    second: minotaur-Sheet_300
+  - first:
+      213: -1275463184438682570
+    second: minotaur-Sheet_301
+  - first:
+      213: 6121150820035350381
+    second: minotaur-Sheet_302
+  - first:
+      213: -2393172751226394004
+    second: minotaur-Sheet_303
+  - first:
+      213: 8051073452017687171
+    second: minotaur-Sheet_304
+  - first:
+      213: 5853795030379460931
+    second: minotaur-Sheet_305
+  - first:
+      213: 5356993820034404396
+    second: minotaur-Sheet_306
+  - first:
+      213: 2155571038581327255
+    second: minotaur-Sheet_307
+  - first:
+      213: 4650861778384894661
+    second: minotaur-Sheet_308
+  - first:
+      213: -1370739339360042671
+    second: minotaur-Sheet_309
+  - first:
+      213: 316722759414048675
+    second: minotaur-Sheet_310
+  - first:
+      213: -8499815231975677852
+    second: minotaur-Sheet_311
+  - first:
+      213: 2810063496677404663
+    second: minotaur-Sheet_312
+  - first:
+      213: 7325889163246652081
+    second: minotaur-Sheet_313
+  - first:
+      213: 5556469911055951774
+    second: minotaur-Sheet_314
+  - first:
+      213: 2319786589259301248
+    second: minotaur-Sheet_315
+  - first:
+      213: 4532342631963842134
+    second: minotaur-Sheet_316
+  - first:
+      213: -2123428488376459343
+    second: minotaur-Sheet_317
+  - first:
+      213: 3306392692234421467
+    second: minotaur-Sheet_318
+  - first:
+      213: -2392963923557665200
+    second: minotaur-Sheet_319
+  - first:
+      213: 8994431795213983032
+    second: minotaur-Sheet_320
+  - first:
+      213: -1849141157420203186
+    second: minotaur-Sheet_321
+  - first:
+      213: 7287317039939466888
+    second: minotaur-Sheet_322
+  - first:
+      213: 9030787240892376732
+    second: minotaur-Sheet_323
+  - first:
+      213: -1699127998065758852
+    second: minotaur-Sheet_324
+  - first:
+      213: -1363101463436666127
+    second: minotaur-Sheet_325
+  - first:
+      213: -7667733064157921399
+    second: minotaur-Sheet_326
+  - first:
+      213: -8814992580208631068
+    second: minotaur-Sheet_327
+  - first:
+      213: 670403447638580438
+    second: minotaur-Sheet_328
+  - first:
+      213: 6316730994624543094
+    second: minotaur-Sheet_329
+  - first:
+      213: -4991753938521131775
+    second: minotaur-Sheet_330
+  - first:
+      213: 7438766710404483233
+    second: minotaur-Sheet_331
+  - first:
+      213: -817425550661493619
+    second: minotaur-Sheet_332
+  - first:
+      213: -8110627897706343910
+    second: minotaur-Sheet_333
+  - first:
+      213: 6450673306090415858
+    second: minotaur-Sheet_334
+  - first:
+      213: 7984945073698266056
+    second: minotaur-Sheet_335
+  - first:
+      213: -9136945481842694423
+    second: minotaur-Sheet_336
+  - first:
+      213: 6987859663930552435
+    second: minotaur-Sheet_337
+  - first:
+      213: -5302809569626957938
+    second: minotaur-Sheet_338
+  - first:
+      213: 4155668936064958241
+    second: minotaur-Sheet_339
+  - first:
+      213: -2905223355492871287
+    second: minotaur-Sheet_340
+  - first:
+      213: 7329472655819513248
+    second: minotaur-Sheet_341
+  - first:
+      213: -7586877320336314239
+    second: minotaur-Sheet_342
+  - first:
+      213: 6096207719180048684
+    second: minotaur-Sheet_343
+  - first:
+      213: -7786313296294174358
+    second: minotaur-Sheet_344
+  - first:
+      213: 3535592470268308920
+    second: minotaur-Sheet_345
+  - first:
+      213: -7714776444814705406
+    second: minotaur-Sheet_346
+  - first:
+      213: -1413350738144969019
+    second: minotaur-Sheet_347
+  - first:
+      213: -1721449794845511871
+    second: minotaur-Sheet_348
+  - first:
+      213: -8797885630428624491
+    second: minotaur-Sheet_349
+  - first:
+      213: -6263166119798952061
+    second: minotaur-Sheet_350
+  - first:
+      213: 795832867855660348
+    second: minotaur-Sheet_351
+  - first:
+      213: 5767289272263939579
+    second: minotaur-Sheet_352
+  - first:
+      213: 8901846223596374620
+    second: minotaur-Sheet_353
+  - first:
+      213: 2747536657323948138
+    second: minotaur-Sheet_354
+  - first:
+      213: -7536145193069341426
+    second: minotaur-Sheet_355
+  - first:
+      213: -1350463803330371865
+    second: minotaur-Sheet_356
+  - first:
+      213: 8787352323403518123
+    second: minotaur-Sheet_357
+  - first:
+      213: 1109531167641589518
+    second: minotaur-Sheet_358
+  - first:
+      213: -1255203780012950248
+    second: minotaur-Sheet_359
+  - first:
+      213: 8038803147791739700
+    second: minotaur-Sheet_360
+  - first:
+      213: 5059861041560970231
+    second: minotaur-Sheet_361
+  - first:
+      213: 8487027948197515311
+    second: minotaur-Sheet_362
+  - first:
+      213: -1735352835643352658
+    second: minotaur-Sheet_363
+  - first:
+      213: -8781995924872425107
+    second: minotaur-Sheet_364
+  - first:
+      213: 5081194167913084961
+    second: minotaur-Sheet_365
+  - first:
+      213: 4750442789580671515
+    second: minotaur-Sheet_366
+  - first:
+      213: 5954754758987116965
+    second: minotaur-Sheet_367
+  - first:
+      213: 584949264202926505
+    second: minotaur-Sheet_368
+  - first:
+      213: -4185916053467759379
+    second: minotaur-Sheet_369
+  - first:
+      213: -8217435086088650630
+    second: minotaur-Sheet_370
+  - first:
+      213: 5910862488989750013
+    second: minotaur-Sheet_371
+  - first:
+      213: -7075846919344835228
+    second: minotaur-Sheet_372
+  - first:
+      213: -7183883022411585946
+    second: minotaur-Sheet_373
+  - first:
+      213: -404055998942250754
+    second: minotaur-Sheet_374
+  - first:
+      213: -7797004475130421441
+    second: minotaur-Sheet_375
+  - first:
+      213: -492601007659270795
+    second: minotaur-Sheet_376
+  - first:
+      213: -6963791219126722289
+    second: minotaur-Sheet_377
+  - first:
+      213: -4969668072413504423
+    second: minotaur-Sheet_378
+  - first:
+      213: 5058062622652210333
+    second: minotaur-Sheet_379
+  - first:
+      213: -2641665926966287580
+    second: minotaur-Sheet_380
+  - first:
+      213: 5125717500143597785
+    second: minotaur-Sheet_381
+  - first:
+      213: 4996040433580941924
+    second: minotaur-Sheet_382
+  - first:
+      213: 509659654259231421
+    second: minotaur-Sheet_383
+  - first:
+      213: 4273876157077332810
+    second: minotaur-Sheet_384
+  - first:
+      213: 7464866050752084570
+    second: minotaur-Sheet_385
+  - first:
+      213: -6748808158702621634
+    second: minotaur-Sheet_386
+  - first:
+      213: 8515552418969698876
+    second: minotaur-Sheet_387
+  - first:
+      213: -2374315417268503287
+    second: minotaur-Sheet_388
+  - first:
+      213: -1423734590756376136
+    second: minotaur-Sheet_389
+  - first:
+      213: 2542414504877913191
+    second: minotaur-Sheet_390
+  - first:
+      213: 6824552500025511072
+    second: minotaur-Sheet_391
+  - first:
+      213: 7726167811218504855
+    second: minotaur-Sheet_392
+  - first:
+      213: 207777040586814883
+    second: minotaur-Sheet_393
+  - first:
+      213: 4478410452152933181
+    second: minotaur-Sheet_394
+  - first:
+      213: 2304124729339251666
+    second: minotaur-Sheet_395
+  - first:
+      213: -8601747863545048178
+    second: minotaur-Sheet_396
+  - first:
+      213: -6377103529082643
+    second: minotaur-Sheet_397
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minotaur-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1396
+        width: 186
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1912c96b45e870800000000000000
+      internalID: 8711451971818167039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1396
+        width: 187
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add82cca0e52056b0800000000000000
+      internalID: -5309702313768481318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1396
+        width: 187
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee814e46d9bc6d0800000000000000
+      internalID: -2969106472671580608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1396
+        width: 186
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673bad19c3424c00800000000000000
+      internalID: 883343007983286124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1396
+        width: 187
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959116f41fc2ec590800000000000000
+      internalID: -7652129301925389991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1396
+        width: 181
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d35e0c7802d6fa0800000000000000
+      internalID: -5805948577181778674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1200
+        width: 174
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c2f84a9cb924830800000000000000
+      internalID: 4053973904938445870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1197
+        width: 187
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370bba2ad4717c680800000000000000
+      internalID: -8734987330052706189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1197
+        width: 197
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a091d7b633d27a0800000000000000
+      internalID: -6400402958670296470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1200
+        width: 176
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a3a9814d8b1130800000000000000
+      internalID: 3538577244851249464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1197
+        width: 171
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb8c06e8fb501a0800000000000000
+      internalID: -6843853440489570402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1197
+        width: 178
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb41efc6ace6190800000000000000
+      internalID: -7967208121303778140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 998
+        width: 140
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c0201824b55dc0800000000000000
+      internalID: -3650813838751645365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 998
+        width: 140
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5a1f0edc33f760800000000000000
+      internalID: 7490397529681059504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 998
+        width: 165
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ea0819d7eae250800000000000000
+      internalID: 5974842775257669939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 998
+        width: 168
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa621cdf790ad950800000000000000
+      internalID: 6474497859056200441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 996
+        width: 215
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18134166731f6ec0800000000000000
+      internalID: -3571614580322658278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 998
+        width: 220
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8e624981a0ca60800000000000000
+      internalID: 7692325774445939858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 797
+        width: 212
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4fa18d6eedf1ac0800000000000000
+      internalID: -3882139270720588640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 799
+        width: 210
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0ccb4cb94b11d0800000000000000
+      internalID: -3379026022337082323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 799
+        width: 205
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705c55f3929fdba00800000000000000
+      internalID: 774048666529154311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 799
+        width: 178
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5b66b400a035130800000000000000
+      internalID: 3554195527306753466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 799
+        width: 140
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5938375c30de79e80800000000000000
+      internalID: -8171802398387108971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 799
+        width: 139
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e6f64dbe92dd60800000000000000
+      internalID: 7913562031019975490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 600
+        width: 165
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e65bdd7eed28d0800000000000000
+      internalID: -2869375163246910227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 600
+        width: 168
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69aa167d85b3040800000000000000
+      internalID: 4628390724133099178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 600
+        width: 240
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba81bb776204f5e0800000000000000
+      internalID: -1876872501226534209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 600
+        width: 171
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bc5e386329db360800000000000000
+      internalID: 7187061343191943974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 600
+        width: 171
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105df583390cdd50800000000000000
+      internalID: 6763290857299595282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 600
+        width: 170
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8ae62018454f5f0800000000000000
+      internalID: -723860727031486238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 401
+        width: 186
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894fe45f788dd6750800000000000000
+      internalID: 6299929532208968856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 401
+        width: 186
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c0e160574968b0800000000000000
+      internalID: -5158513487611116458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 401
+        width: 186
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024ad2c662930170800000000000000
+      internalID: 8143513521269391879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 401
+        width: 186
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c36bbec875f3250800000000000000
+      internalID: 5926551897404488765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 401
+        width: 187
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5516d5e8925e480800000000000000
+      internalID: -8870638199607568910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 401
+        width: 166
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c584bc76892df90800000000000000
+      internalID: -6930309305010201482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 202
+        width: 168
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252e5ad4a2520220800000000000000
+      internalID: 2450612015234688293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 202
+        width: 135
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d99c8c42a07ced0800000000000000
+      internalID: -2393933523820372640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 202
+        width: 137
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b68abf82c949a40800000000000000
+      internalID: 5374091955194587986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 202
+        width: 186
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bcb0b47f984f2f0800000000000000
+      internalID: -939974727004599470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 202
+        width: 187
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1062842ef0d8d6a0800000000000000
+      internalID: -6424155078491217889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 202
+        width: 186
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368a20e927ba841a0800000000000000
+      internalID: -6825016726514390941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 186
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3af869bc35ff70800000000000000
+      internalID: 9220342579138805756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3
+        width: 184
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db07b1ca8f863910800000000000000
+      internalID: 1816797325808831442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 5
+        width: 176
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77e37d71c5a0f80800000000000000
+      internalID: -8139592119053551622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 5
+        width: 176
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e674a117a9cb380800000000000000
+      internalID: -8954112148556517741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 10
+        width: 173
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9bd76d775ed7d60800000000000000
+      internalID: 7889714425085409781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minotaur-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 10
+        width: 174
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee75d66ed9cc87e10800000000000000
+      internalID: 2195729796890974190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

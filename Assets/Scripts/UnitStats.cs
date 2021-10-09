@@ -13,6 +13,7 @@ public class UnitStats : ScriptableObject
     public float defense;
     public float magicDefense;
     public float speed;
+    public float exp;
 
 
 }

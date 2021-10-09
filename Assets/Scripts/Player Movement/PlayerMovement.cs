@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ArrowBooleans
     {
@@ -17,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]private float speed;
     [SerializeField]private Animator animator;
     private Rigidbody2D rb;
+    
 
 
     private void Awake()

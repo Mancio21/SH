@@ -919,7 +919,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -52.399994, y: 220.40001}
+  m_AnchoredPosition: {x: 10, y: 104}
   m_SizeDelta: {x: 943.27673, y: 136.63513}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &675309842
@@ -1087,6 +1087,8 @@ MonoBehaviour:
   checkpointScene: Safezone
   sceneBeforeMenu: 
   actualSide: 0
+  playerStats: {fileID: 0}
+  gainValues: {fileID: 0}
 --- !u!4 &893300210
 Transform:
   m_ObjectHideFlags: 0
@@ -1892,6 +1894,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1761879126878821166, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6797757096080125627, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
       propertyPath: m_Name
       value: Canvas_HUD (2)
@@ -1978,6 +1984,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6797757096080125631, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
       propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6797757096518546651, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6797757097726248709, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6797757097862827605, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7138663472217474738, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}

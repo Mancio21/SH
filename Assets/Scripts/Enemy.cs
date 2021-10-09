@@ -36,6 +36,27 @@ public class Enemy : Unit
         StartCoroutine(WaitForTurn());
         }
 
+    public override void Damaged(float damage)
+        {
+
+        currentHealth -= damage;
+        battleHUD.SetHP(currentHealth);
+        if (currentHealth > 0)
+            {
+            anim.SetTrigger("Hitted");
+            }
+        else
+            {
+            CombatManager.Instance.AddOnText($" {unitName} is death.");
+
+            StopAllCoroutines();
+
+            speedBar.FinishBattle();
+            GameManager.Instance.GainExp(stats.exp, this);
+            anim.SetTrigger("Death");
+
+            }
+        }
     public override void EndTurn()
         {
         if (!CombatManager.Instance.CheckBattleState())

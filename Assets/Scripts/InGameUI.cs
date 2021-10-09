@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class InGameUI : MonoBehaviour
+public class InGameUI : Singleton<InGameUI>
 {
     private int actualTimeScale;
+    public Button interactButton;
 
     public GameObject[] panelList;
     void Start()

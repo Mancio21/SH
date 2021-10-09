@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 2ddf285e3ba27c64cb0d0d9b7b9792d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2682790625426293132
+    second: Rock tiles_0
+  - first:
+      213: -2560286447694066378
+    second: Rock tiles_1
+  - first:
+      213: 1487167390856207055
+    second: Rock tiles_2
+  - first:
+      213: 8333527080628899424
+    second: Rock tiles_3
+  - first:
+      213: -5757476472597498252
+    second: Rock tiles_4
+  - first:
+      213: 4232223995994342988
+    second: Rock tiles_5
+  - first:
+      213: -9096453811566301083
+    second: Rock tiles_6
+  - first:
+      213: 1035419318130646566
+    second: Rock tiles_7
+  - first:
+      213: 6252788681036776770
+    second: Rock tiles_8
+  - first:
+      213: 3973331538755373822
+    second: Rock tiles_9
+  - first:
+      213: 5399806111043139910
+    second: Rock tiles_10
+  - first:
+      213: 8918512655374329023
+    second: Rock tiles_11
+  - first:
+      213: -1479610321706161133
+    second: Rock tiles_12
+  - first:
+      213: 1902018273623851274
+    second: Rock tiles_13
+  - first:
+      213: 5153717119699786016
+    second: Rock tiles_14
+  - first:
+      213: 7230632750694867769
+    second: Rock tiles_15
+  - first:
+      213: 7084662777882271850
+    second: Rock tiles_16
+  - first:
+      213: -776732187295537035
+    second: Rock tiles_17
+  - first:
+      213: 8639196606704374901
+    second: Rock tiles_18
+  - first:
+      213: -3325901759528392818
+    second: Rock tiles_19
+  - first:
+      213: 7782956004805781902
+    second: Rock tiles_20
+  - first:
+      213: -9020218718109885173
+    second: Rock tiles_21
+  - first:
+      213: -8855241673802054244
+    second: Rock tiles_22
+  - first:
+      213: 2300699925533338981
+    second: Rock tiles_23
+  - first:
+      213: -2134904944904433123
+    second: Rock tiles_24
+  - first:
+      213: 5555590282389156908
+    second: Rock tiles_25
+  - first:
+      213: 6735856348520162889
+    second: Rock tiles_26
+  - first:
+      213: -5015459883810259988
+    second: Rock tiles_27
+  - first:
+      213: -6450379978688265769
+    second: Rock tiles_28
+  - first:
+      213: 7176715552132404352
+    second: Rock tiles_29
+  - first:
+      213: 175320848790081668
+    second: Rock tiles_30
+  - first:
+      213: 3547391113890081430
+    second: Rock tiles_31
+  - first:
+      213: 7346751875956171997
+    second: Rock tiles_32
+  - first:
+      213: 1555477516450745628
+    second: Rock tiles_33
+  - first:
+      213: 4824264979798893714
+    second: Rock tiles_34
+  - first:
+      213: 6435100522604436187
+    second: Rock tiles_35
+  - first:
+      213: 8494870971663663737
+    second: Rock tiles_36
+  - first:
+      213: -5766976806825670679
+    second: Rock tiles_37
+  - first:
+      213: -3591067938140417955
+    second: Rock tiles_38
+  - first:
+      213: 7751844146395627627
+    second: Rock tiles_39
+  - first:
+      213: -2088146477812000408
+    second: Rock tiles_40
+  - first:
+      213: -7258801222295934779
+    second: Rock tiles_41
+  - first:
+      213: -3568465982238727988
+    second: Rock tiles_42
+  - first:
+      213: 2973300579353784416
+    second: Rock tiles_43
+  - first:
+      213: 755971597088916539
+    second: Rock tiles_44
+  - first:
+      213: 5667699424930920891
+    second: Rock tiles_45
+  - first:
+      213: -2231928926776976277
+    second: Rock tiles_46
+  - first:
+      213: -6654507315567508590
+    second: Rock tiles_47
+  - first:
+      213: 7958734673290422745
+    second: Rock tiles_48
+  - first:
+      213: 4118115234878786805
+    second: Rock tiles_49
+  - first:
+      213: 5808759609867917474
+    second: Rock tiles_50
+  - first:
+      213: -6940115239858198808
+    second: Rock tiles_51
+  - first:
+      213: 2039506976249710575
+    second: Rock tiles_52
+  - first:
+      213: -4179960451660522027
+    second: Rock tiles_53
+  - first:
+      213: -3886741047239374109
+    second: Rock tiles_54
+  - first:
+      213: -2662491282341315702
+    second: Rock tiles_55
+  - first:
+      213: -3045004429434936602
+    second: Rock tiles_56
+  - first:
+      213: 5270585126301420359
+    second: Rock tiles_57
+  - first:
+      213: 3547910440845267834
+    second: Rock tiles_58
+  - first:
+      213: 7327671967533127698
+    second: Rock tiles_59
+  - first:
+      213: -4729053420728075182
+    second: Rock tiles_60
+  - first:
+      213: -6116004121789746899
+    second: Rock tiles_61
+  - first:
+      213: -4926867720387206556
+    second: Rock tiles_62
+  - first:
+      213: -5617285396742812418
+    second: Rock tiles_63
+  - first:
+      213: -6991348866700481474
+    second: Rock tiles_64
+  - first:
+      213: 1249215003865213827
+    second: Rock tiles_65
+  - first:
+      213: 4466515713051685811
+    second: Rock tiles_66
+  - first:
+      213: 5643365666118175947
+    second: Rock tiles_67
+  - first:
+      213: -4586692000343454181
+    second: Rock tiles_68
+  - first:
+      213: 8163745041861907635
+    second: Rock tiles_69
+  - first:
+      213: 5443951904720879899
+    second: Rock tiles_70
+  - first:
+      213: -5872801011248092730
+    second: Rock tiles_71
+  - first:
+      213: -3598348605648515101
+    second: Rock tiles_72
+  - first:
+      213: -4199098529029236271
+    second: Rock tiles_73
+  - first:
+      213: -4031753529527591448
+    second: Rock tiles_74
+  - first:
+      213: -2977786150845328267
+    second: Rock tiles_75
+  - first:
+      213: -5242913001199408071
+    second: Rock tiles_76
+  - first:
+      213: 2749122608590254469
+    second: Rock tiles_77
+  - first:
+      213: 8085499001463016117
+    second: Rock tiles_78
+  - first:
+      213: -593815156575515946
+    second: Rock tiles_79
+  - first:
+      213: -593564788405329124
+    second: Rock tiles_80
+  - first:
+      213: 1367357637957712368
+    second: Rock tiles_81
+  - first:
+      213: 6109082896348508386
+    second: Rock tiles_82
+  - first:
+      213: -726547456221788366
+    second: Rock tiles_83
+  - first:
+      213: 5708896872664594117
+    second: Rock tiles_84
+  - first:
+      213: 3422713091976497595
+    second: Rock tiles_85
+  - first:
+      213: 5491185758241379124
+    second: Rock tiles_86
+  - first:
+      213: -3356157124108432293
+    second: Rock tiles_87
+  - first:
+      213: -5814851963165028463
+    second: Rock tiles_88
+  - first:
+      213: -9211250235123887592
+    second: Rock tiles_89
+  - first:
+      213: -6556840990329317948
+    second: Rock tiles_90
+  - first:
+      213: -5675432301936814995
+    second: Rock tiles_91
+  - first:
+      213: 7121738120770745818
+    second: Rock tiles_92
+  - first:
+      213: -3946467595158914274
+    second: Rock tiles_93
+  - first:
+      213: 7145812406469342746
+    second: Rock tiles_94
+  - first:
+      213: 4357871546769751557
+    second: Rock tiles_95
+  - first:
+      213: -4201226240686871282
+    second: Rock tiles_96
+  - first:
+      213: -1294884340438069568
+    second: Rock tiles_97
+  - first:
+      213: -2696867328522493789
+    second: Rock tiles_98
+  - first:
+      213: 5166566759709662748
+    second: Rock tiles_99
+  - first:
+      213: -5211131919543464252
+    second: Rock tiles_100
+  - first:
+      213: -787789423753981199
+    second: Rock tiles_101
+  - first:
+      213: 2559069781402673682
+    second: Rock tiles_102
+  - first:
+      213: -384640321690109415
+    second: Rock tiles_103
+  - first:
+      213: -4995486492412917840
+    second: Rock tiles_104
+  - first:
+      213: 172656944938128708
+    second: Rock tiles_105
+  - first:
+      213: 1095398865398653512
+    second: Rock tiles_106
+  - first:
+      213: 4234560894214093938
+    second: Rock tiles_107
+  - first:
+      213: -7289532994800992315
+    second: Rock tiles_108
+  - first:
+      213: -6496130331205003891
+    second: Rock tiles_109
+  - first:
+      213: -1173376366353755029
+    second: Rock tiles_110
+  - first:
+      213: -6227258001639494253
+    second: Rock tiles_111
+  - first:
+      213: -6233938162178935163
+    second: Rock tiles_112
+  - first:
+      213: 8070282717844781763
+    second: Rock tiles_113
+  - first:
+      213: -5515959405162853820
+    second: Rock tiles_114
+  - first:
+      213: 3123044740908495747
+    second: Rock tiles_115
+  - first:
+      213: 1869549811025809270
+    second: Rock tiles_116
+  - first:
+      213: 7701634823466262321
+    second: Rock tiles_117
+  - first:
+      213: 6162653238697420526
+    second: Rock tiles_118
+  - first:
+      213: 6858707049080373709
+    second: Rock tiles_119
+  - first:
+      213: -1899907445695433761
+    second: Rock tiles_120
+  - first:
+      213: -926328654029240517
+    second: Rock tiles_121
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rock tiles_0
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 876
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eb7b4e320d4cad0800000000000000
+      internalID: -2682790625426293132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock tiles_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 876
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dc2f17a09087cd0800000000000000
+      internalID: -2560286447694066378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

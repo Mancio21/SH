@@ -515,6 +515,8 @@ MonoBehaviour:
   checkpointScene: Safezone
   sceneBeforeMenu: 
   actualSide: 0
+  playerStats: {fileID: 11400000, guid: 86c732e620c876d4cb0f58a5ca575b86, type: 2}
+  gainValues: {fileID: 11400000, guid: b86a7a3c957aea745a6bb710696a3a41, type: 2}
 --- !u!4 &1697707742
 Transform:
   m_ObjectHideFlags: 0

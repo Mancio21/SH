@@ -20,10 +20,10 @@ public class BattleHUD : MonoBehaviour
 
     public void SetHUD(Unit unit)
         {
-        //if (levelText)
-        //    {
-        //    levelText.text = "LVL" + unit.unitLevel;
-        //    }
+        if (levelText)
+            {
+            levelText.text = GameManager.Instance.playerInfo.lvl.ToString();
+            }
         nameText.text = unit.UnitName;
         
 

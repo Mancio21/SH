@@ -13,10 +13,11 @@ MonoBehaviour:
   m_Name: Player Stats
   m_EditorClassIdentifier: 
   unitName: ALECC
-  health: 100
+  health: 95
   mana: 50
-  attack: 23
+  attack: 50
   magic: 19
   defense: 15
   magicDefense: 14
-  speed: 10
+  speed: 2
+  exp: 60

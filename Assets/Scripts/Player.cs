@@ -10,14 +10,33 @@ public class Player : Unit
 
     public Dictionary<Button, InitSpellButton> dictionary = new Dictionary<Button, InitSpellButton>();
 
+    protected override void Awake()
+        {
+        base.Awake();
+        GameManager.Instance.lvlUP += delegate { UpdateStats(stats); };
+        }
+
+
     public override void UpdateStats(UnitStats stats)
         {
-        base.UpdateStats(stats);
-        
+        if (this == null)
+            {
+            return;
+            }
+        unitName = stats.unitName;
+        maxHealth = stats.health + (GameManager.Instance.playerInfo.lvl * GameManager.Instance.gainValues.health);
+        mana = stats.mana + (GameManager.Instance.playerInfo.lvl * GameManager.Instance.gainValues.mana);
+        attack = stats.attack + (GameManager.Instance.playerInfo.lvl * GameManager.Instance.gainValues.attack);
+        magic = stats.magic + (GameManager.Instance.playerInfo.lvl * GameManager.Instance.gainValues.magic);
+        defense = stats.defense + (GameManager.Instance.playerInfo.lvl * GameManager.Instance.gainValues.defense);
+        speed = stats.speed - (GameManager.Instance.playerInfo.lvl * GameManager.Instance.gainValues.speed);
+
         if (!GameManager.Instance.playerInfo.initializedHP)
             {
             GameManager.Instance.playerInfo.currentHP = maxHealth;
             GameManager.Instance.playerInfo.currentMana = mana;
+            GameManager.Instance.playerInfo.maxHP = maxHealth;
+            GameManager.Instance.playerInfo.maxMana = mana;
             currentHealth = maxHealth;
             currentMana = mana;
 
@@ -27,6 +46,21 @@ public class Player : Unit
             {
             currentHealth = GameManager.Instance.playerInfo.currentHP;
             currentMana = GameManager.Instance.playerInfo.currentMana;
+            }
+
+        IEnumerator WaitHUD()
+            {
+            yield return new WaitUntil(() => battleHUD);
+            battleHUD.SetHUD(this);
+            }
+        if (battleHUD)
+            {
+            battleHUD.SetHUD(this);
+            }
+        else
+            {
+            StartCoroutine(WaitHUD());
+
             }
 
 

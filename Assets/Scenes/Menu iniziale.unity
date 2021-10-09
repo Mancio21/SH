@@ -955,6 +955,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1761879126878821166, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6797757096080125627, guid: 3a54e96982f628349b87ffc826f4ebf7, type: 3}
       propertyPath: m_Name
       value: Canvas_HUD (1)
@@ -1561,6 +1565,7 @@ MonoBehaviour:
   checkpointScene: Safezone
   sceneBeforeMenu: 
   actualSide: 0
+  playerStats: {fileID: 0}
 --- !u!4 &1043982427
 Transform:
   m_ObjectHideFlags: 0

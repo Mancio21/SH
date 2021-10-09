@@ -55,13 +55,18 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\LootOnCollision.cs" />
     <Compile Include="Assets\Scripts\SpawnEnemy.cs" />
     <Compile Include="Assets\Scripts\OptionsMenu.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\WinAndLose.cs" />
     <Compile Include="Assets\Scripts\Player Movement\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\MenuStats.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Menu iniziale\LoadScene.cs" />
+    <Compile Include="Assets\Scripts\InGameUI.cs" />
     <Compile Include="Assets\Scripts\State Machine Behaviours\AttackState.cs" />
+    <Compile Include="Assets\Scripts\InventoryGraphic.cs" />
     <Compile Include="Assets\Scripts\State Machine Behaviours\LoadSceneOnEnd.cs" />
     <Compile Include="Assets\Scripts\Player Movement\MovementArrow.cs" />
     <Compile Include="Assets\Scripts\SceneManagement\ChangeArea.cs" />
@@ -72,6 +77,7 @@
     <Compile Include="Assets\Scripts\ButtonsController.cs" />
     <Compile Include="Assets\Scripts\State Machine Behaviours\MagicState.cs" />
     <Compile Include="Assets\Scripts\BattleHUD.cs" />
+    <Compile Include="Assets\Scripts\PotionScriptable.cs" />
     <Compile Include="Assets\Scripts\InitSpellButton.cs" />
     <Compile Include="Assets\UI\Sci Fi Pixel Art UI Kit\Demo\Scripts\CanvasController.cs" />
     <Compile Include="Assets\Scripts\BattleSystem.cs" />
@@ -82,12 +88,15 @@
     <Compile Include="Assets\Scripts\EventBehaviour.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\StartBattle.cs" />
+    <Compile Include="Assets\Scripts\InventoryLogic.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\CombatManager.cs" />
     <Compile Include="Assets\Scripts\State Machine Behaviours\DeathState.cs" />
     <Compile Include="Assets\Scripts\SetTarget.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Scripts\InGameUI.cs" />
+    <Compile Include="Assets\Scripts\Loot.cs" />
+    <Compile Include="Assets\Scripts\DestroyWithCondition.cs" />
+    <Compile Include="Assets\Scripts\CollectSpecialItem.cs" />
+    <Compile Include="Assets\Scripts\CheckPoint.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

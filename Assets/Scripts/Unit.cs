@@ -34,7 +34,7 @@ public class Unit : MonoBehaviour
 
 
 
-    private void Awake()
+    protected virtual void Awake()
         {
         UpdateStats(stats);
         anim = GetComponentInChildren<Animator>();
